@@ -1,0 +1,558 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_QAPMaW": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_wawqbc": {
+          "type": "heading",
+          "settings": {
+            "heading": "FREQUENTLY ASKED QUESTIONS",
+            "size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wawqbc"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/electrician-undergoing-training.png",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "image_height_mobile": "adapt-mobile",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": false,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#000000",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#565656",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_JzrCFH": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LqPMWL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We answer your most frequently asked questions from TRADESAFE products and services to orders and shipments.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LqPMWL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "full",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_xbjpaB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_G6myLp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where are you located? ",
+            "icon": "none",
+            "row_content": "<p>Our address is Reno, Nevada 89502.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_DGEhHB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I want to get an online quotation. What should I do?",
+            "icon": "none",
+            "row_content": "<p>You may contact us at<a href=\"mailto:hello@trdsf.com\" target=\"_blank\">hello@trdsf.com<\/a>so we can further assist you.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RVqFa7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are there any benefits to having an account with you?",
+            "icon": "none",
+            "row_content": "<p>Yes, with your TRADESAFE account, you will have access to:<\/p><ul><li>Your account information<\/li><li>Your order history<\/li><\/ul><p>We will also be able to provide you with a better experience by:<\/p><ul><li>Being able to quickly review your purchases in the event of a problem.<\/li><li>Offer you special discounts, notices, and promotions.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_HMamDa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where can I write a review?",
+            "icon": "none",
+            "row_content": "<p>There are 3 different locations where you can write a review. Here they are:<\/p><p><\/p><p><strong>Amazon Product Review<\/strong><\/p><p>There are 4 easy steps to submit a review on Amazon Product Review:<\/p><ol><li>Go to the product page of the item you purchased and scroll down until you find the “Customer Reviews” section. For easy access, you may proceed to the “Your Orders” menu on your account.<\/li><li>Click “Write a customer review” in the Customer Reviews section, and fill in as much information as you’d like, including text, photos, or videos.<\/li><li>Select a Star Rating. A green checkmark shows for successfully submitted ratings.<\/li><li>Once you’re satisfied with your review, click “Submit.”<\/li><\/ol><p>However, take note that only those who met the minimum eligibility requirements are able to write a review. Please see Amazon Community Guidelines for more information.<\/p><p><\/p><p><strong>Website<\/strong><\/p><p>You can write a product review on our website in 3 simple steps:<\/p><ol><li>On any product page, scroll down, and you will see the “Customer Reviews” section, which includes a “Write A Review” button on the right side.<\/li><li>Click on that button, and fill in as much information as you’d like, like Name, Email, and your Comments. You may also provide your rating and attach a photo of the item you received.<\/li><li>Once done, click “Send Review.” Note: It may take up to 5 business days before it appears on the website. <\/li><\/ol><p><\/p><p><strong>Third-Party Seller Feedback<\/strong><\/p><p>Third-party seller feedback lets other customers know about your experience after you order an item from a third-party seller. Here are 4 easy steps to leave your feedback:<\/p><ol><li>You can either go to:<\/li><li>Find your order.<\/li><li>Select the options that best reflect your experience.<\/li><li>Once you’re done, select Submit Feedback.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "collapsible_row_f6gwFq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I use my Discount Coupon?",
+            "icon": "none",
+            "row_content": "<p>Upon checkout, enter the discount code in the corresponding discount box below your summary of purchases during checkout. Then, click “Apply.”<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VGezXW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you match prices if an item goes on sale after my purchase?",
+            "icon": "none",
+            "row_content": "<p>No. Reduced prices or discounts cannot be applied retroactively to purchases made before the start of a weekly sale or daily deal or to purchases made after the end of a weekly sale or daily deal.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VJbBi7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I unsubscribe from your mailing list?",
+            "icon": "none",
+            "row_content": "<p>We're sad to hear you want to unsubscribe from our email list. Customer experience is our number one goal, so please let us know if there is anything we can do better by contacting us at <a href=\"mailto:hello@trdsf.com\" target=\"_blank\">hello@trdsf.com<\/a>. To unsubscribe on our mailing list, just open an email from us and click “Unsubscribe.”<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_G6myLp",
+        "collapsible_row_DGEhHB",
+        "collapsible_row_RVqFa7",
+        "collapsible_row_HMamDa",
+        "collapsible_row_f6gwFq",
+        "collapsible_row_VGezXW",
+        "collapsible_row_VJbBi7"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "General Questions",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_ghCfMe": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_k7YbhP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are your shipping costs?",
+            "icon": "none",
+            "row_content": "<p>Shipping costs depend on the delivery address and location. TRADESAFE offers free and expedited shipping within the US for orders over $20. For orders not qualified for free shipping, the shipping cost will be automatically computed based on the delivery address entered. For international orders, shipping fees, taxes, tariffs, customs duty, and other fees may apply depending on the destination country. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ejH7jk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship internationally?",
+            "icon": "none",
+            "row_content": "<p>We accept international orders. Shipping fees, tariffs, and other applicable fees will be shouldered by the customer.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_f4b4Vj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How many days does shipping take?",
+            "icon": "none",
+            "row_content": "<p>For orders over $20, we offer free and expedited shipping within the US. This usually takes 1-4 days to arrive.<br\/><br\/>For international orders, it depends on the shipping service available. Shipping costs, tariffs, and other fees may apply depending on what country the order will be shipped to. All fees for international orders will be shouldered by the customer.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_hfKJiR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have free shipping?",
+            "icon": "none",
+            "row_content": "<p>Yes, we offer free shipping on domestic orders over $20.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_k7YbhP",
+        "collapsible_row_ejH7jk",
+        "collapsible_row_f4b4Vj",
+        "collapsible_row_hfKJiR"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "Shipment",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_e6bDaA": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_8PQUAW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer wholesale pricing?",
+            "icon": "none",
+            "row_content": "<p>We are primarily a direct-to-consumer brand. If you are interested in retailing our products, please email us the details and we will get in touch.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_dWw7Nk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you accept distributors?",
+            "icon": "none",
+            "row_content": "<p>We are primarily a direct-to-consumer brand. If you are interested in partnering with us to distribute our products, please email us the details at hello@trdsf.com and we will get in touch.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_89myYp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you accept credit card payments?",
+            "icon": "none",
+            "row_content": "<p>To give you a hassle-free experience, we accept several payment options such as credit card, PayPal, Shop Pay, and even Apple Pay, Facebook Pay, and Google Pay.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Fcryr8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will I receive an order confirmation email upon ordering?",
+            "icon": "none",
+            "row_content": "<p>Yes, once you checkout your order, you will receive an order confirmation on the email provided.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NxdYBW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I get an invoice for my order?",
+            "icon": "none",
+            "row_content": "<p>You can contact us at<a href=\"mailto:hello@trdsf.com\" target=\"_blank\">hello@trdsf.com<\/a>so we can further assist you.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rzn7HL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where can I track and trace my orders?",
+            "icon": "none",
+            "row_content": "<p>After your order has been processed, an email will be sent to you from hello@trdsf.com which contains a tracking number.  It is not uncommon for there to be more than one tracking number and shipment, depending on the number of items that you order and the proximity of our fulfillment centers to your shipping address.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fNUtAf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "My package says delivered, but I did not receive anything. Who should I follow up with this?",
+            "icon": "none",
+            "row_content": "<p>Sometimes, express delivery services can make mistakes or odd things can happen after the order has left our warehouse. While you can contact the delivery service provider for your order, we understand that the whole process may be inconvenient to you. In this case, please do not hesitate to contact us so we can thoroughly investigate what happened and help you get your ordered items. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Qrkjfe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long is your warranty period?",
+            "icon": "none",
+            "row_content": "<p>We stand behind the quality of our products. For instances where a replacement may be required, every product is warrantied for 5 years. We offer a full replacement for the first two years, while the second three years is a prorated warranty. The warranty period starts from the original purchase date and only applies to the original purchaser of the product.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zPeM3k": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why do I receive multiple shipments for one order?",
+            "icon": "none",
+            "row_content": "<p>Our inventory is distributed among many fulfillment centers. Oftentimes, the closest fulfillment center to the delivery address is responsible for shipping the order. In rare instances, a fulfillment center may not have enough inventory of the item ordered so the next warehouse fulfills the remaining units to ensure you receive the correct ordered quantity.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_znkafC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I make sure I receive my order in one delivery instead of multiple deliveries?",
+            "icon": "none",
+            "row_content": "<p>There are usually multiple deliveries for bulk orders because our products are distributed among many fulfillment centers. There are instances where the closest fulfillment center to the delivery address does not have enough stock of the ordered product so the next warehouse sends the remaining units to ensure you receive the correct ordered item and quantity. If you urgently need your order, please contact us at<a href=\"mailto:hello@trdsf.com\" target=\"_blank\">hello@trdsf.com<\/a>or ‪(316) 247-1270‬ so we can further assist you.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_8PQUAW",
+        "collapsible_row_dWw7Nk",
+        "collapsible_row_89myYp",
+        "collapsible_row_Fcryr8",
+        "collapsible_row_NxdYBW",
+        "collapsible_row_rzn7HL",
+        "collapsible_row_fNUtAf",
+        "collapsible_row_Qrkjfe",
+        "collapsible_row_zPeM3k",
+        "collapsible_row_znkafC"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "Order Information",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_j4fkpq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_JK9bwC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I received a damaged\/wrong item. How can I get a replacement? ",
+            "icon": "none",
+            "row_content": "<p>Your experience is very important to us. We stand behind our products. If you received a damaged\/wrong item, please send us the order details at hello@trdsf.com.  We will take care of it immediately.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LxU68m": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I cancel my order?",
+            "icon": "none",
+            "row_content": "<p>Yes, you have the option to cancel your order at any moment. However, the following terms and conditions must be observed:<\/p><ul><li>No fees will apply for orders canceled for products that have not shipped.<\/li><li>If you need to cancel an order after it has shipped but before it is delivered, kindly notify us at <a href=\"mailto:hello@trdsf.com\" target=\"_blank\">hello@trdsf.com<\/a>. You will likely need to resend it to us. This will require a return authorization. Do not ship anything to us until you have received this Return Authorization. It will contain important instructions.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LgMWKn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_4WW7M4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_JK9bwC",
+        "collapsible_row_LxU68m",
+        "collapsible_row_LgMWKn",
+        "collapsible_row_4WW7M4"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "Returns",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_Nwm7da": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_XUXNL7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How durable are TRADESAFE safety supplies?",
+            "icon": "none",
+            "row_content": "<p>All products, including absorbents, eyewash stations, lockout tagout devices, and supplies, as well as signs, are of the highest quality and designed to meet and exceed local, state, and federal compliance. Lockout tagout devices and supplies are both resistant to chemicals & moisture, suitable for usage in industrial settings, and are perfect for most safety lockout applications.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JgFQYH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are TRADESAFE products OSHA-compliant?",
+            "icon": "none",
+            "row_content": "<p>LOTO safety products are only effective when used and installed properly.  <\/p><p>Please ensure that you fully understand the installation practices and use our products as part of a full OSHA-compliant program. Having said that, yes, our lockout tagout devices and supplies are made with safety and OSHA standards in mind. <\/p><p>All products have gone through extensive quality control to guarantee they are durable, substantial, standardized, identifiable, and exclusive for safety.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FbRXJX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often should I replace my lockout tagout kits?",
+            "icon": "none",
+            "row_content": "<p>OSHA requires inspections on your procedure at least once every 12 months. Therefore, if LOTO kits and devices are no longer functional during the inspection, they should be replaced right away.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Cq6bNB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have the products in stock?",
+            "icon": "none",
+            "row_content": "<p>Our TRADESAFE website is live and reflects what is in stock at that moment. Otherwise, out-of-stock products will be marked as “Sold Out.”<br\/><\/p><p>Nonetheless, we constantly check and ensure that our collections are available for your purchase. <\/p><p>It is possible that quantities of some items may not yet be checked into our warehouse. If you aren’t seeing the product or quantity available then please email us at <a href=\"mailto:hello@trdsf.com\">hello@trdsf.com<\/a> and we will try our best to accommodate you.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CVrNwU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does TRADESAFE make custom products?",
+            "icon": "none",
+            "row_content": "<p>We are a proud retailer of industrial safety devices and supplies in the US. As of now, we do not include custom products as part of our services. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_W8z9Bp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I make some minor modifications to a LOTO product I purchased?",
+            "icon": "none",
+            "row_content": "<p>Every lockout tagout device that we offer is precision-engineered and designed to be OSHA-compliant when properly applied. <\/p><p>Any modifications made to any product or its intended use may risk its effectiveness and deviate from OSHA standards, and result in the product not functioning properly and causing a hazard. <\/p><p>It is highly advisable to use the product for its intended purpose and not alter it in any way.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cY6tze": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have a master key for the keyed different or keyed alike safety padlocks?",
+            "icon": "none",
+            "row_content": "<p>As of now, we only have keyed different, keyed alike, and keyed alike unlimited safety padlocks. We currently do not offer master keyed locks.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VQDNAz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I lost my padlock key. Can I get a duplicate key?",
+            "icon": "none",
+            "row_content": "<p>We have three padlock variations: keyed alike, keyed alike unlimited, and keyed different. Each padlock comes with either one key or two keys. Unfortunately, we do not keep extra keys for any of our padlocks. <\/p><p>Once lost, we do not have any means to duplicate it. However, if the key lost was for a keyed alike unlimited padlock, you can always order a new set of the same color and we guarantee that the key will fit the set of padlocks of your first order.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_M3W9r4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I ordered one pack of keyed alike padlocks before. Can I order again and have the same engraved numbers?",
+            "icon": "none",
+            "row_content": "<p>Our keyed alike padlocks come in a pack of 7 or 10. Every padlock and key from the same pack are identical. However, additional packs will be keyed differently from the first pack. If you need more than 7 or 10 keyed alike padlocks, we have our keyed alike unlimited padlocks.<\/p><p> Every additional pack of padlock is keyed exactly the same as the first pack, so you can have an unlimited number of keyed alike padlocks.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PwtYVx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have a video where I can follow how to properly install my LOTO device?",
+            "icon": "none",
+            "row_content": "<p>We try to include a video together with the images on every product listing. You can also visit our YouTube channel for our product videos. <\/p><p>However, it is recommended that workers undergo LOTO training under the supervision of a qualified expert before using lockout tagout devices, as well as performing lockout tagout procedures.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_XUXNL7",
+        "collapsible_row_JgFQYH",
+        "collapsible_row_FbRXJX",
+        "collapsible_row_Cq6bNB",
+        "collapsible_row_CVrNwU",
+        "collapsible_row_W8z9Bp",
+        "collapsible_row_cY6tze",
+        "collapsible_row_VQDNAz",
+        "collapsible_row_M3W9r4",
+        "collapsible_row_PwtYVx"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "Product Information",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_QAPMaW",
+    "rich_text_JzrCFH",
+    "collapsible_content_xbjpaB",
+    "collapsible_content_ghCfMe",
+    "collapsible_content_e6bDaA",
+    "collapsible_content_j4fkpq",
+    "collapsible_content_Nwm7da"
+  ]
+}

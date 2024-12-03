@@ -1,0 +1,204 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 40
+      }
+    },
+    "image_banner_GkhLYf": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Qgj9Ge": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tools",
+            "size": "h0"
+          }
+        },
+        "text_FtFcPf": {
+          "type": "text",
+          "settings": {
+            "text": "Measure and Improve Workplace Safety with Our Calculators.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Qgj9Ge",
+        "text_FtFcPf"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/construction-safety-tools.png",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
+        "image_height_mobile": "small-mobile",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": false,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#000000",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#565656",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_LtyTxR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aLrNXg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_af71e31c-6c9b-48e1-a113-e8d1b9010e50.webp",
+            "icon": "shield_check",
+            "title": "OSHA Incident Rate Calculator",
+            "text": "<p>The OSHA Incident Rate Calculator tracks and measures workplace safety incidents and performance. Learn its benefits, features, and effective use.<\/p>",
+            "link_label": "Calculate Now",
+            "link": "shopify:\/\/pages\/lost-time-case-rate-calculator",
+            "button_style": "solid",
+            "button_open_new_tab": false,
+            "card_color_text": "#000000",
+            "color_button_text": "#ffffff",
+            "color_button": "#b63031",
+            "card_color_background": "#ffffff",
+            "card_color_background_gradient": ""
+          }
+        },
+        "column_9MQnVq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_72b6dd3f-ec2a-486b-995e-404548a853ef.webp",
+            "icon": "clock",
+            "title": "Lost Time Case Rate Calculator",
+            "text": "<p>Calculate and track Lost Time Incident Rates (LTIR) using our tool. Know the benefits and best practices for using an LTIR calculator in this ultimate guide.<\/p>",
+            "link_label": "Calculate Now",
+            "link": "shopify:\/\/pages\/lost-time-case-rate-calculator",
+            "button_style": "solid",
+            "button_open_new_tab": false,
+            "card_color_text": "#000000",
+            "color_button_text": "#ffffff",
+            "color_button": "#b63031",
+            "card_color_background": "#ffffff",
+            "card_color_background_gradient": ""
+          }
+        },
+        "column_gy488E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_1.webp",
+            "icon": "chart_bar",
+            "title": "DART Rate Calculator",
+            "text": "<p>The OSHA DART Rate Calculator is an effective tool in measuring workplace injuries and illnesses. Learn how to use it, analyze its results, and avoid common mistakes.<\/p>",
+            "link_label": "Calculate Now",
+            "link": "shopify:\/\/pages\/dart-rate-calculator",
+            "button_style": "solid",
+            "button_open_new_tab": false,
+            "card_color_text": "#000000",
+            "color_button_text": "#ffffff",
+            "color_button": "#b63031",
+            "card_color_background": "#ffffff",
+            "card_color_background_gradient": ""
+          }
+        },
+        "column_97wt7K": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1.webp",
+            "icon": "chart_pie",
+            "title": "TRIR and DART Rate Calculator",
+            "text": "<p>Upgrade your workplace safety measures by using our TRIR and DART Rate calculators. Learn why using both metrics will lead to improved safety performance.<\/p>",
+            "link_label": "Calculate Now",
+            "link": "shopify:\/\/pages\/tcr-and-dart-rate-calculator",
+            "button_style": "solid",
+            "button_open_new_tab": false,
+            "card_color_text": "#121212",
+            "color_button_text": "#ffffff",
+            "color_button": "#b63031",
+            "card_color_background": "#ffffff",
+            "card_color_background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_aLrNXg",
+        "column_9MQnVq",
+        "column_gy488E",
+        "column_97wt7K"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "media_type": "image",
+        "media_width_desktop": "30",
+        "image_ratio": "adapt",
+        "text_position": "right",
+        "columns_desktop": 2,
+        "columns_tablet": 3,
+        "desktop_gap": 30,
+        "auto_fit": false,
+        "column_alignment": "left",
+        "enable_shadow": true,
+        "background_transparent": true,
+        "button_label": "",
+        "button_link": "",
+        "button_open_new_tab": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "enable_parallax_scrolling_effect": true,
+        "background_image_overlay_color": "button",
+        "columns_mobile": "1",
+        "mobile_gap": 30,
+        "media_width_mobile": "100",
+        "swipe_on_mobile": false,
+        "text_boxes_border_thickness": 0,
+        "text_boxes_border_opacity": 0,
+        "text_boxes_radius": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "spacer_reWWAG": {
+      "type": "spacer",
+      "settings": {
+        "height": 65
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_GkhLYf",
+    "multicolumn_LtyTxR",
+    "spacer_reWWAG"
+  ]
+}

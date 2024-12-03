@@ -1,0 +1,1261 @@
+{
+  "sections": {
+    "image_banner_rEWNee": {
+      "type": "image-banner",
+      "blocks": {
+        "multiline_text_JJfwrM": {
+          "type": "multiline_text",
+          "settings": {
+            "text": "<p>⭐️⭐️⭐️⭐️⭐️ +1000s Happy Customers<\/p>",
+            "text_style": "body"
+          }
+        },
+        "heading_xxANdM": {
+          "type": "heading",
+          "settings": {
+            "heading": "PREMIUM. INDUSTRIAL. SAFETY.",
+            "size": "h0"
+          }
+        },
+        "text_X3eG93": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_RMJXmH": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP PRODUCTS",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "multiline_text_JJfwrM",
+        "heading_xxANdM",
+        "text_X3eG93",
+        "buttons_RMJXmH"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/homepage-banner-2023.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/mobile_banner_4.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "image_height_mobile": "large-mobile",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": true,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": false,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#ffffff",
+        "color_button_1": "#b73030",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#ffffff",
+        "color_button_1_mobile": "#b73030",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#565656",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "518b8ced-997b-408e-84d5-64fe5082a6a1": {
+      "type": "slideshow",
+      "blocks": {
+        "6d524d43-1bde-474f-b4c0-f6b07a06c8be": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/homepage-banner-2023.jpg",
+            "badge_label": "",
+            "heading": "PREMIUM. INDUSTRIAL. SAFETY.",
+            "text": "",
+            "hide_text_on_mobile": false,
+            "button_label": "SHOP TRADESAFE PRODUCTS",
+            "price": "",
+            "link": "shopify:\/\/collections\/all",
+            "button_style": "primary",
+            "button_open_new_tab": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "keep_ltr": false,
+            "desktop_image_width": "full",
+            "desktop_image_position": "right",
+            "image_overlay_opacity": 30,
+            "text_alignment_mobile": "center",
+            "colors_text": "#ffffff",
+            "gradient_heading_desktop": "",
+            "colors_background": "#444141",
+            "colors_badge_foreground": "#ffffff",
+            "colors_badge_background": "#933737",
+            "colors_button_text": "#ffffff",
+            "colors_button": "#b63031",
+            "colors_text_mobile": "#ffffff",
+            "gradient_heading_mobile": "",
+            "colors_background_mobile": "#ffffff",
+            "colors_badge_foreground_mobile": "#ffffff",
+            "colors_badge_background_mobile": "#933737",
+            "colors_button_text_mobile": "#ffffff",
+            "colors_button_mobile": "#b63031"
+          }
+        }
+      },
+      "block_order": [
+        "6d524d43-1bde-474f-b4c0-f6b07a06c8be"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slide_height_mobile": "large-mobile",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "enable_pagination_desktop": false,
+        "enable_navigation_desktop": false,
+        "preload": true,
+        "show_text_below": false,
+        "enable_pagination_mobile": true,
+        "enable_navigation_mobile": true,
+        "accessibility_info": "Slideshow about our brand",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "slideshow_xkU7c6": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_dKhDEf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/homepage-banner-2023.jpg",
+            "badge_label": "⭐️⭐️⭐️⭐️⭐️ +500 Happy Customers",
+            "heading": "PREMIUM. INDUSTRIAL. SAFETY.",
+            "text": "",
+            "hide_text_on_mobile": false,
+            "button_label": "SHOP TRADESAFE PRODUCTS",
+            "price": "",
+            "link": "shopify:\/\/collections\/all",
+            "button_style": "primary",
+            "button_open_new_tab": false,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "keep_ltr": false,
+            "desktop_image_width": "full",
+            "desktop_image_position": "left",
+            "image_overlay_opacity": 0,
+            "text_alignment_mobile": "center",
+            "colors_text": "#ffffff",
+            "gradient_heading_desktop": "",
+            "colors_background": "#ffffff",
+            "colors_badge_foreground": "#fef2f2",
+            "colors_badge_background": "rgba(0,0,0,0)",
+            "colors_button_text": "#ffffff",
+            "colors_button": "#b63031",
+            "colors_text_mobile": "#ffffff",
+            "gradient_heading_mobile": "",
+            "colors_background_mobile": "#ffffff",
+            "colors_badge_foreground_mobile": "#ffffff",
+            "colors_badge_background_mobile": "rgba(0,0,0,0)",
+            "colors_button_text_mobile": "#ffffff",
+            "colors_button_mobile": "#b63031"
+          }
+        }
+      },
+      "block_order": [
+        "slide_dKhDEf"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slide_height_mobile": "large-mobile",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_pagination_desktop": true,
+        "enable_navigation_desktop": true,
+        "preload": true,
+        "show_text_below": false,
+        "enable_pagination_mobile": false,
+        "enable_navigation_mobile": false,
+        "accessibility_info": "Main banner about our brand",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "text_icons_jctWjQ": {
+      "type": "text-icons",
+      "blocks": {
+        "text_icon_wPFXfe": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/OHS_Digital_Badge.png",
+            "title": "",
+            "subheading": "Award-winning",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_jD7hdg": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/gold_badge.png",
+            "title": "",
+            "subheading": "Gold standard warranty",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_tANWQ4": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/A_USA_COMPANY.png",
+            "title": "",
+            "subheading": "US-based",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "text_icon_wPFXfe",
+        "text_icon_jD7hdg",
+        "text_icon_tANWQ4"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "icon_width_desktop": 20,
+        "text_position": "bottom",
+        "enable_heading_in_box": false,
+        "columns_desktop": 3,
+        "columns_tablet": 3,
+        "auto_fit": false,
+        "column_alignment": "center",
+        "highlight_icon": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "border_width": 1,
+        "border_opacity": 0,
+        "border_spacing": 0,
+        "highlight_border": false,
+        "border_shape": "square",
+        "blur_background": false,
+        "columns_mobile": "3",
+        "icon_width_mobile": 50,
+        "border_spacing_mobile": 0,
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "rich_text_fxKPtb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CzGNGC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Popular Products<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CzGNGC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "featured_products_tabs_JnWbxF": {
+      "type": "featured-products-tabs",
+      "blocks": {
+        "featured_collection_m3RNm7": {
+          "type": "featured_collection",
+          "settings": {
+            "title": "Featured collection",
+            "collection": "all",
+            "products_to_show": 4,
+            "columns_desktop": 4,
+            "show_view_all": true,
+            "view_all_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_m3RNm7"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "full_width": false,
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "enable_compare": false,
+        "enable_quick_view": true,
+        "show_color_swatches": false,
+        "color_swatches_style": "custom",
+        "columns_tablet": "3",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_d7nAzy": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "testimonials_Hazxh9": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_tj7TgK": {
+          "type": "quote",
+          "settings": {
+            "title": "Great Customer Support",
+            "content": "<p>Extremely helpful and appreciative of my business…<\/p>",
+            "number_of_stars": 5,
+            "user_full_name": "John R",
+            "hide_avatar": true,
+            "user_title": "Corpus Christi, TX"
+          }
+        },
+        "quote_66i4yd": {
+          "type": "quote",
+          "settings": {
+            "title": "Very communicative",
+            "content": "<p>Provide great support and customer service.<\/p>",
+            "number_of_stars": 5,
+            "user_full_name": "Deborah C",
+            "hide_avatar": true,
+            "user_title": "Cypress, TX"
+          }
+        },
+        "quote_UXaBkg": {
+          "type": "quote",
+          "settings": {
+            "title": "This lock out tag out kit is great!",
+            "content": "<p>Price is good and everything we needed to be able to safely lock out equipment<\/p>",
+            "number_of_stars": 5,
+            "user_full_name": "Doug C",
+            "hide_avatar": true,
+            "user_title": "Huntington, IN"
+          }
+        },
+        "quote_N6nqfN": {
+          "type": "quote",
+          "settings": {
+            "title": "This meets all of the needs...",
+            "content": "<p>I have been doing EHS for about 25 years...this meets all of the needs, value, quality, price and overall function.<\/p>",
+            "number_of_stars": 5,
+            "user_full_name": "Jim M.",
+            "hide_avatar": true,
+            "user_title": ""
+          }
+        },
+        "quote_WxmLrf": {
+          "type": "quote",
+          "settings": {
+            "title": "Very Impressed!",
+            "content": "<p>Very Impressed! High Quality.<\/p>",
+            "number_of_stars": 5,
+            "user_full_name": "Austin",
+            "hide_avatar": true,
+            "user_title": ""
+          }
+        },
+        "quote_67pnBm": {
+          "type": "quote",
+          "settings": {
+            "title": "Great product and an even better seller.",
+            "content": "<p>Very communicative and provide great support and customer service.<\/p>",
+            "number_of_stars": 5,
+            "user_full_name": "Chistopher T",
+            "hide_avatar": true,
+            "user_title": "San Jose, CA"
+          }
+        }
+      },
+      "block_order": [
+        "quote_tj7TgK",
+        "quote_66i4yd",
+        "quote_UXaBkg",
+        "quote_N6nqfN",
+        "quote_WxmLrf",
+        "quote_67pnBm"
+      ],
+      "settings": {
+        "title": "What Customers Say",
+        "subtitle": "",
+        "heading_size": "h2",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 64
+      }
+    },
+    "gallery_h3dVYf": {
+      "type": "gallery",
+      "blocks": {
+        "text_overlay_image_JdQrKg": {
+          "type": "text-overlay-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/electrical-lockout-tagout-kit_1440x_3fd9f5f7-55f0-4709-b3a1-ff974d0cd2b2.webp",
+            "link": "",
+            "keep_ltr": false,
+            "text": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "heading": "Lockout Tagout",
+            "heading_size": "h4",
+            "heading_uppercase": true,
+            "button_label": "View Products",
+            "button_style": "primary",
+            "button_size": "small",
+            "button_pin_bottom": false,
+            "horizontal_alignment": "center",
+            "vertical_alignment": "center",
+            "heading_color": "#ffffff",
+            "caption_color": "#ffffff",
+            "button_foreground": "#000000",
+            "button_background": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "text_overlay_image_J4D4PX": {
+          "type": "text-overlay-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eyewash-stations_b4d3fb50-74db-4ce5-9602-3cd07e1b58c2.png",
+            "link": "shopify:\/\/collections\/eyewash-stations",
+            "keep_ltr": false,
+            "text": "",
+            "text_style": "subtitle",
+            "text_size": "small",
+            "heading": "Eyewash Station",
+            "heading_size": "h4",
+            "heading_uppercase": true,
+            "button_label": "View Products",
+            "button_style": "primary",
+            "button_size": "small",
+            "button_pin_bottom": false,
+            "horizontal_alignment": "center",
+            "vertical_alignment": "center",
+            "heading_color": "#ffffff",
+            "caption_color": "#ffffff",
+            "button_foreground": "#000000",
+            "button_background": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "text_overlay_image_yNEh9C": {
+          "type": "text-overlay-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ComingSoon_Absorbents.jpg",
+            "link": "",
+            "keep_ltr": false,
+            "text": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "heading": "Absorbents",
+            "heading_size": "h4",
+            "heading_uppercase": true,
+            "button_label": "View Products",
+            "button_style": "primary",
+            "button_size": "small",
+            "button_pin_bottom": false,
+            "horizontal_alignment": "center",
+            "vertical_alignment": "center",
+            "heading_color": "#ffffff",
+            "caption_color": "#000000",
+            "button_foreground": "#000000",
+            "button_background": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "text_overlay_image_iKjL47": {
+          "type": "text-overlay-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vibrant-high-voltage-sign.png",
+            "link": "",
+            "keep_ltr": false,
+            "text": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "heading": "Workplace Signs",
+            "heading_size": "h4",
+            "heading_uppercase": true,
+            "button_label": "View Products",
+            "button_style": "primary",
+            "button_size": "small",
+            "button_pin_bottom": false,
+            "horizontal_alignment": "center",
+            "vertical_alignment": "center",
+            "heading_color": "#ffffff",
+            "caption_color": "#ffffff",
+            "button_foreground": "#000000",
+            "button_background": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "text_overlay_image_JdQrKg",
+        "text_overlay_image_J4D4PX",
+        "text_overlay_image_yNEh9C",
+        "text_overlay_image_iKjL47"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Our Collections",
+        "heading_size": "h2",
+        "flexible_columns_layout": "grid",
+        "columns_desktop": 4,
+        "columns_tablet": "4",
+        "full_width": false,
+        "auto_fit": false,
+        "disable_item_space": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_tabs_JiCWFi": {
+      "type": "collection-list-tabs",
+      "blocks": {
+        "collection_list_BETGxt": {
+          "type": "collection_list",
+          "settings": {
+            "title": "",
+            "collection_list": [
+              "lockout-tagout",
+              "eyewash-stations",
+              "absorbents",
+              "workplace-signs"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "collection_list_BETGxt"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Our Collections",
+        "subtitle": "",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "full_width": false,
+        "enable_section_box_layout": false,
+        "enable_desktop_slider": false,
+        "hide_when_empty_content": true,
+        "color_scheme": "",
+        "show_view_all": true,
+        "collection_card_show_title": true,
+        "show_products_count": false,
+        "columns_tablet": "4",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_gCMcgm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_d794DL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/electrical-lockout-tagout-kit_1440x_3fd9f5f7-55f0-4709-b3a1-ff974d0cd2b2.webp",
+            "icon": "check",
+            "title": "Lockout Tagout",
+            "text": "",
+            "link_label": "View Products",
+            "link": "shopify:\/\/collections\/lockout-tagout",
+            "button_style": "link",
+            "button_open_new_tab": false,
+            "card_color_text": "#3e3232",
+            "color_button_text": "#ffffff",
+            "color_button": "#b62f31",
+            "card_color_background": "#fafafa",
+            "card_color_background_gradient": ""
+          }
+        },
+        "column_jUtGFW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ComingSoon_Eyewash.jpg",
+            "icon": "check",
+            "title": "Eyewash Stations",
+            "text": "",
+            "link_label": "View Products",
+            "link": "shopify:\/\/collections\/eyewash-stations",
+            "button_style": "link",
+            "button_open_new_tab": false,
+            "card_color_text": "#121212",
+            "color_button_text": "#ffffff",
+            "color_button": "#b62f31",
+            "card_color_background": "#fafafa",
+            "card_color_background_gradient": ""
+          }
+        },
+        "column_68TNFx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ComingSoon_Absorbents.jpg",
+            "icon": "check",
+            "title": "Absorbents",
+            "text": "",
+            "link_label": "View Products",
+            "link": "shopify:\/\/collections\/absorbents",
+            "button_style": "link",
+            "button_open_new_tab": false,
+            "card_color_text": "#000000",
+            "color_button_text": "#ffffff",
+            "color_button": "#fafafa",
+            "card_color_background": "#fafafa",
+            "card_color_background_gradient": ""
+          }
+        },
+        "column_8gXrPC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Workplace_sign_collage_1.jpg",
+            "icon": "check",
+            "title": "Workplace Signs",
+            "text": "",
+            "link_label": "View Products",
+            "link": "shopify:\/\/collections\/workplace-signs",
+            "button_style": "link",
+            "button_open_new_tab": false,
+            "card_color_text": "#000000",
+            "color_button_text": "#ffffff",
+            "color_button": "#fafafa",
+            "card_color_background": "#fafafa",
+            "card_color_background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_d794DL",
+        "column_jUtGFW",
+        "column_68TNFx",
+        "column_8gXrPC"
+      ],
+      "settings": {
+        "title": "Our Collections",
+        "subtitle": "",
+        "heading_size": "h2",
+        "media_type": "image",
+        "media_width_desktop": "100",
+        "image_ratio": "square",
+        "text_position": "bottom",
+        "columns_desktop": 4,
+        "columns_tablet": 3,
+        "desktop_gap": 30,
+        "auto_fit": false,
+        "column_alignment": "left",
+        "enable_shadow": true,
+        "background_transparent": false,
+        "button_label": "View All",
+        "button_link": "shopify:\/\/collections",
+        "button_open_new_tab": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "enable_parallax_scrolling_effect": true,
+        "background_image_overlay_color": "button",
+        "columns_mobile": "2",
+        "mobile_gap": 30,
+        "media_width_mobile": "100",
+        "swipe_on_mobile": false,
+        "text_boxes_border_thickness": 0,
+        "text_boxes_border_opacity": 0,
+        "text_boxes_radius": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "gallery_hGfLnN": {
+      "type": "gallery",
+      "blocks": {
+        "text_overlay_image_cygkN8": {
+          "type": "text-overlay-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/safetrade_collection_1.jpg",
+            "link": "",
+            "keep_ltr": false,
+            "text": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "heading": "Lockout Tagout",
+            "heading_size": "h4",
+            "heading_uppercase": false,
+            "button_label": "View Products",
+            "button_style": "secondary",
+            "button_size": "small",
+            "button_pin_bottom": true,
+            "horizontal_alignment": "left",
+            "vertical_alignment": "start",
+            "heading_color": "#ffffff",
+            "caption_color": "#ffffff",
+            "button_foreground": "#000000",
+            "button_background": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 10
+          }
+        },
+        "text_overlay_image_r9W8aF": {
+          "type": "text-overlay-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_004ad7c2-6451-4cdb-8f86-b2ee6d6b674f.jpg",
+            "link": "",
+            "keep_ltr": false,
+            "text": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "heading": "WORKPLACE SIGNS",
+            "heading_size": "h4",
+            "heading_uppercase": true,
+            "button_label": "View Products",
+            "button_style": "primary",
+            "button_size": "normal",
+            "button_pin_bottom": true,
+            "horizontal_alignment": "left",
+            "vertical_alignment": "start",
+            "heading_color": "#000000",
+            "caption_color": "#ffffff",
+            "button_foreground": "#ffffff",
+            "button_background": "#b73030",
+            "overlay_color": "#000000",
+            "overlay_opacity": 10
+          }
+        },
+        "text_overlay_image_wUpkQ4": {
+          "type": "text-overlay-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/safetrade_collection_4.jpg",
+            "link": "",
+            "keep_ltr": false,
+            "text": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "heading": "EYEWASH STATIONS",
+            "heading_size": "h4",
+            "heading_uppercase": true,
+            "button_label": "View Products",
+            "button_style": "secondary",
+            "button_size": "normal",
+            "button_pin_bottom": true,
+            "horizontal_alignment": "left",
+            "vertical_alignment": "start",
+            "heading_color": "#ffffff",
+            "caption_color": "#ffffff",
+            "button_foreground": "#000000",
+            "button_background": "#ffffff",
+            "overlay_color": "rgba(0,0,0,0)",
+            "overlay_opacity": 10
+          }
+        },
+        "text_overlay_image_aLbprj": {
+          "type": "text-overlay-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/safetrade_collection_3.jpg",
+            "link": "",
+            "keep_ltr": false,
+            "text": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
+            "heading": "Absorbents",
+            "heading_size": "h4",
+            "heading_uppercase": true,
+            "button_label": "View Products",
+            "button_style": "primary",
+            "button_size": "normal",
+            "button_pin_bottom": true,
+            "horizontal_alignment": "left",
+            "vertical_alignment": "start",
+            "heading_color": "#000000",
+            "caption_color": "#ffffff",
+            "button_foreground": "#ffffff",
+            "button_background": "#b73030",
+            "overlay_color": "rgba(0,0,0,0)",
+            "overlay_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "text_overlay_image_cygkN8",
+        "text_overlay_image_r9W8aF",
+        "text_overlay_image_wUpkQ4",
+        "text_overlay_image_aLbprj"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Our Collections",
+        "heading_size": "h1",
+        "flexible_columns_layout": "grid",
+        "columns_desktop": 4,
+        "columns_tablet": "4",
+        "full_width": true,
+        "auto_fit": false,
+        "disable_item_space": true,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_TLNPfF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_NJdey3": {
+          "type": "heading",
+          "settings": {
+            "heading": "OSHA Compliance",
+            "heading_size": "h1",
+            "enable_bold_heading": true
+          }
+        },
+        "text_i86EJk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our safety supplies are designed to <strong>help you meet and exceed local, state, and federal regulations<\/strong>, including key OSHA standards like <\/p><ul><li>29 CFR 1910.147 (hazardous energy control)<\/li><li>1910.145 (accident prevention signs and tags)<\/li><li>1910.151(c) (medical services and first aid). <\/li><\/ul><p>We also comply with EPA standards like 40 CFR part 112 (spill containment) and more.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UXbatR": {
+          "type": "button",
+          "settings": {
+            "button_label": "CHECK OUT OUR FAQS",
+            "button_link": "shopify:\/\/pages\/faq",
+            "button_style": "secondary",
+            "button_open_new_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NJdey3",
+        "text_i86EJk",
+        "button_UXbatR"
+      ],
+      "custom_css": [],
+      "settings": {
+        "grid_layout": "grid",
+        "image": "shopify:\/\/shop_images\/Tradesafe_OSHA_Compliance2.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "hide_when_empty_image": false,
+        "preload": true,
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 20,
+        "color_heading": "#000000",
+        "gradient_heading": "",
+        "color_text": "#000000",
+        "color_highlight_text": "#da2127",
+        "color_caption": "#000000",
+        "color_countdown": "#000000",
+        "color_icon": "#000000",
+        "color_button_text": "#ffffff",
+        "color_button": "#b62f31",
+        "background_container": "rgba(0,0,0,0)",
+        "gradient_background_container": "",
+        "background_section": "#ffffff",
+        "gradient_background_section": "",
+        "enable_parallax_scrolling_effect": true,
+        "overlay_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image_with_text_KEqrRd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QfBWWh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quality Materials",
+            "heading_size": "h1",
+            "enable_bold_heading": true
+          }
+        },
+        "text_YzgqV4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At TRADESAFE, we understand industrial workplace needs. That's why <strong>we use only high-quality, durable materials in our safety tools. <\/strong><\/p><p>From lockout tagout devices to eyewash stations, our products are built to last in tough conditions, ensuring workers go home safely every day.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_894dtw": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections",
+            "button_style": "solid",
+            "button_open_new_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QfBWWh",
+        "text_YzgqV4",
+        "button_894dtw"
+      ],
+      "custom_css": [],
+      "settings": {
+        "grid_layout": "grid",
+        "image": "shopify:\/\/shop_images\/Tradesafe-Quality-Materials2.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "hide_when_empty_image": false,
+        "preload": true,
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "color_heading": "#000000",
+        "gradient_heading": "",
+        "color_text": "#000000",
+        "color_highlight_text": "#da2127",
+        "color_caption": "#000000",
+        "color_countdown": "#000000",
+        "color_icon": "#000000",
+        "color_button_text": "#ffffff",
+        "color_button": "#b63031",
+        "background_container": "rgba(0,0,0,0)",
+        "gradient_background_container": "",
+        "background_section": "#ffffff",
+        "gradient_background_section": "",
+        "enable_parallax_scrolling_effect": false,
+        "overlay_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image_with_text_xnVp8N": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BjaXWr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Safety Solutions",
+            "heading_size": "h1",
+            "enable_bold_heading": true
+          }
+        },
+        "text_LqkbJw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The TRADESAFE team delivers smart, reliable solutions for your safety needs. <\/p><p>Our strong products ensure <strong>peace of mind in hazardous conditions. <\/strong><\/p><p>From small businesses to large corporations, countless customers trust TRADESAFE as their safety partner.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_JKVcDd": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style": "secondary",
+            "button_open_new_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BjaXWr",
+        "text_LqkbJw",
+        "button_JKVcDd"
+      ],
+      "custom_css": [],
+      "settings": {
+        "grid_layout": "grid",
+        "image": "shopify:\/\/shop_images\/safety-padlocks-10pack-red_014d1845-4edc-4b76-ba57-478894ad9b08.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "hide_when_empty_image": false,
+        "preload": true,
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "color_heading": "#000000",
+        "gradient_heading": "",
+        "color_text": "#000000",
+        "color_highlight_text": "#da2127",
+        "color_caption": "#000000",
+        "color_countdown": "#000000",
+        "color_icon": "#000000",
+        "color_button_text": "#ffffff",
+        "color_button": "#b63031",
+        "background_container": "rgba(0,0,0,0)",
+        "gradient_background_container": "",
+        "background_section": "rgba(0,0,0,0)",
+        "gradient_background_section": "",
+        "enable_parallax_scrolling_effect": true,
+        "overlay_color": "rgba(0,0,0,0)"
+      }
+    },
+    "newsletter_UkbrzC": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_Q3JK66": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_eAjUfX": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up to get the latest on sales, new releases, and more...<\/p>"
+          }
+        },
+        "email_form_ttRGKW": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_Q3JK66",
+        "paragraph_eAjUfX",
+        "email_form_ttRGKW"
+      ],
+      "disabled": true,
+      "settings": {
+        "grid_layout": "grid",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "background_image_section": "shopify:\/\/shop_images\/subscribe_bg.jpg",
+        "enable_parallax_scrolling_effect": true,
+        "colors_text": "#000000",
+        "colors_input": "#ffffff",
+        "overlay_color": "rgba(0,0,0,0)",
+        "mobile_content_alignment": "center",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "video_WJN3xT": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/trdsf_animated_thumbnail.gif",
+        "video_hosted": "shopify:\/\/files\/videos\/For_Storefront_LOTO - Premium A+ Generic Video.mp4",
+        "video_url": "",
+        "description": "",
+        "autoplay": true,
+        "enable_controls": false,
+        "enable_video_looping": true,
+        "full_width": true,
+        "hide_when_empty_video": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "featured_blog_EhkyRK": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Our Blog",
+        "heading_size": "h1",
+        "blog": "news",
+        "post_limit": 4,
+        "image_height": "medium",
+        "show_view_all": true,
+        "columns_desktop": 2,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "blog_card_layout": "below",
+        "blog_card_text_alignment": "left",
+        "blog_card_color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_blog_card_badge": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "text_icons_V4VyjM": {
+      "type": "text-icons",
+      "blocks": {
+        "text_icon_rmwD6R": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/guarantee-icon.png",
+            "title": "2 Year No Hassle Guarantee",
+            "subheading": "We guarantee our products for 2 years. If there's an issue, send a picture with your order details, and we'll quickly replace or refund—no hassle.",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_Bf9pQw": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/support-icon.png",
+            "title": "Real 24\/7 Direct Support",
+            "subheading": "No bots. Real people with authority to help you. We are fanatical about delivering you a world class experience.",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_jw73gW": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/free-shipping-icon.png",
+            "title": "Fast & Free Shipping",
+            "subheading": "Why pay for shipping when we can deliver your orders for free? No surprise added costs at checkout! Get free and expedited shipping within the U.S. lower 48 on orders above $60. Domestic shipping usually takes only 2 to 4 days to arrive, but please allow extra time for larger or multi-item orders.",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_Xa3DBY": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/usa-icon.png",
+            "title": "A USA Based And Owned Company",
+            "subheading": "Trusted by thousands, TRADESAFE is an American-owned company committed to exceeding safety standards and protecting you and your business.",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "text_icon_rmwD6R",
+        "text_icon_Bf9pQw",
+        "text_icon_jw73gW",
+        "text_icon_Xa3DBY"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "icon_width_desktop": 25,
+        "text_position": "bottom",
+        "enable_heading_in_box": false,
+        "columns_desktop": 4,
+        "columns_tablet": 4,
+        "auto_fit": false,
+        "column_alignment": "center",
+        "highlight_icon": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "border_width": 1,
+        "border_opacity": 0,
+        "border_spacing": 0,
+        "highlight_border": false,
+        "border_shape": "square",
+        "blur_background": false,
+        "columns_mobile": "2",
+        "icon_width_mobile": 30,
+        "border_spacing_mobile": 0,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_rEWNee",
+    "518b8ced-997b-408e-84d5-64fe5082a6a1",
+    "slideshow_xkU7c6",
+    "text_icons_jctWjQ",
+    "rich_text_fxKPtb",
+    "featured_products_tabs_JnWbxF",
+    "rich_text_d7nAzy",
+    "testimonials_Hazxh9",
+    "gallery_h3dVYf",
+    "collection_list_tabs_JiCWFi",
+    "multicolumn_gCMcgm",
+    "gallery_hGfLnN",
+    "image_with_text_TLNPfF",
+    "image_with_text_KEqrRd",
+    "image_with_text_xnVp8N",
+    "newsletter_UkbrzC",
+    "video_WJN3xT",
+    "featured_blog_EhkyRK",
+    "text_icons_V4VyjM"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_mCzj3k": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Lb3nVP": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>A Guide to the OSHA Incident Rate Calculator<\/strong><\/h1>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Lb3nVP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_bVBTUC": {
+      "type": "rich-text",
+      "blocks": {
+        "text_8wNj4y": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>The OSHA Incident Rate Calculator: What is it?<\/h2><p>The OSHA Incident Rate Calculator is a tool that allows employers to calculate their company's incident rate. <strong>This rate is the number of work-related injuries and illnesses that occur within a given period, usually a year. <\/strong><\/p><p>The calculator employs data regarding the number of injuries, illnesses, and total work hours to compute the incident rate and compare it with the national average for the company's industry.<\/p><p>The incident rate <strong>is a crucial performance indicator for a company's safety standards <\/strong>because it enables employers to spot patterns and trends in workplace illnesses and injuries. <\/p><p>By monitoring the incident rate over time, an employer can determine if their safety initiatives are effective. And if they are not, they can adjust them to improve performance.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_8wNj4y"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 52
+      }
+    },
+    "249b6fc2-5ca9-432e-99b5-ac77567251c9": {
+      "type": "osha-incident-rate-calculator",
+      "settings": {}
+    },
+    "rich_text_7PiwQq": {
+      "type": "rich-text",
+      "blocks": {
+        "text_NCpJ63": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>How to Use the OSHA Incident Rate Calculator<\/h2><p>Using the OSHA Incident Rate Calculator is a quick and straightforward process that can be done online in minutes. Here's how to use it:<\/p><ol><li><strong>Collect Your Data:<\/strong> Gather information about the number of injuries, illnesses, and total work hours for your company during a specific period, generally one year. This data is available in your <a href=\"https:\/\/www.osha.gov\/recordkeeping\/forms\" target=\"_blank\" title=\"OSHA 300 Log\">OSHA 300 log<\/a>, which is a record of all work-related injuries and illnesses that took place during the year.<\/li><li><strong>Input Your Data:<\/strong> Once you have the necessary data, input the number of injuries, illnesses, and total work hours for your company through our OSHA Incident Rate Calculator below.<\/li><li><strong>Calculate Your Incident Rate<\/strong>: Our calculator will compute your company's incident rate and contrast it with the national average for your industry.<\/li><li><strong>Interpret Your Results:<\/strong> If your company's incident rate is higher than the national average, it may indicate that you have safety issues that require attention. Conversely, if it is lower, you can use this information to demonstrate your commitment to safety and compliance.<\/li><\/ol><h2>Importance of the OSHA Incident Rate Calculator<\/h2><p>The OSHA Incident Rate Calculator is essential for several reasons, including:<\/p><ul><li><strong>Compliance:<\/strong> Employers must maintain accurate records of all work-related injuries and illnesses and report them to OSHA if specific criteria are met. Employing the OSHA Incident Rate Calculator ensures compliance with these regulations, avoiding potential penalties and fines.<\/li><li><strong>Safety Performance:<\/strong> By monitoring your incident rate over time, you can assess the effectiveness of your safety initiatives and implement changes if necessary.It can help identify trends or patterns in workplace injuries and illnesses, identify areas for improvement and be able to take action such as repairing a faulty machine or putting up more <a href=\"https:\/\/trdsf.com\/collections\/workplace-signs\" target=\"_blank\" title=\"Workplace Safety Signs\">safety signs<\/a> in the workplace. This can help reduce workplace incidents, which, in turn, enhances the health and well-being of employees and reduces workers' compensation expenses.<\/li><li><strong>Benchmarking:<\/strong> By comparing your incident rate to the national average for your industry, you can identify areas that require improvement in your safety performance. It also allows you to demonstrate your commitment to safety and compliance to potential clients, investors, and employees.<\/li><li><strong>Competitive Advantage:<\/strong> A low incident rate can give your company a competitive advantage when bidding for contracts or seeking investors. Companies that prioritize safety and compliance are more appealing to potential clients, investors, and employees.<\/li><\/ul><p>The OSHA Incident Rate Calculator is a tool you don't want to overlook. <strong>By utilizing this calculator to monitor your company's incident rate, you can pinpoint areas that need improvement, showcase your dedication to safety, and adhere to OSHA regulations. <\/strong><\/p><p>Remember, a secure workplace is a productive one, so ensure that you're taking all the necessary measures to safeguard your employees and your company.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_NCpJ63"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_WFTBxU": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_F7bXtk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "1. What is the formula for calculating the incident rate?",
+            "icon": "none",
+            "row_content": "<p>The formula for calculating the incident rate is: (number of injuries and illnesses x 200,000) \/ total hours worked. The result is the incident rate per 100 full-time workers.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UQNVPG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "2. What is the difference between an injury and an illness?",
+            "icon": "none",
+            "row_content": "<p>An injury is a physical harm that results from a workplace accident, such as a cut, burn, or fracture. An illness is a health condition that results from exposure to workplace hazards, such as respiratory diseases or skin conditions.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_83DjbN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "3. What should I do if my incident rate is higher than the national average?",
+            "icon": "none",
+            "row_content": "<p>If your incident rate is higher than the national average, you should investigate the causes of the injuries and illnesses and take steps to address them. This may include improving safety training, implementing new safety protocols, or providing better <a href=\"https:\/\/trdsf.com\/blogs\/news\/10-personal-protective-equipment-guidelines-for-worker-safety\" target=\"_blank\" title=\"10 Personal Protective Equipment Guidelines for Worker Safety\">personal protective equipment<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VNThWL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "4. Can I use the OSHA Incident Rate Calculator for multiple locations or divisions of my company?",
+            "icon": "none",
+            "row_content": "<p>Yes, you can use the calculator for multiple locations or divisions of your company, as long as you have accurate data for each location or division.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xhFKnK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "5. Is the OSHA Incident Rate Calculator mandatory?",
+            "icon": "none",
+            "row_content": "<p>No, the OSHA Incident Rate Calculator is not mandatory, but it is a recommended tool for tracking your company's safety performance and compliance.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_F7bXtk",
+        "collapsible_row_UQNVPG",
+        "collapsible_row_83DjbN",
+        "collapsible_row_VNThWL",
+        "collapsible_row_xhFKnK"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "title": "FAQs about the OSHA Incident Rate Calculator",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_mCzj3k",
+    "rich_text_bVBTUC",
+    "249b6fc2-5ca9-432e-99b5-ac77567251c9",
+    "rich_text_7PiwQq",
+    "collapsible_content_WFTBxU"
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "collection_tree_data": "",
+        "preload_background_image": false,
+        "enable_parallax_scrolling_effect": true,
+        "show_number_of_products": false,
+        "icon_size": "small",
+        "icon_border_shape": "square",
+        "collection_icon_color_scheme": "background-1",
+        "enable_transparent_header": false,
+        "text_color_transparent": "#ffffff"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 48,
+        "columns_desktop": 3,
+        "pagination_style": "numbers",
+        "preload_first_image": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "include_collection_in_url": true,
+        "enable_quick_add": true,
+        "enable_compare": true,
+        "enable_quick_view": true,
+        "show_color_swatches": true,
+        "color_swatches_style": "custom",
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "filter_include_group_name": true,
+        "enable_sorting": true,
+        "categories_filter": "dawn-collection-filter",
+        "categories_filter_type": "link",
+        "filter_collapse": "collapse",
+        "show_collection_description": true,
+        "description_position": "below",
+        "description_style": "body",
+        "description_alignment": "left",
+        "truncate_description": 0,
+        "read_more_button": "Read more",
+        "columns_tablet": "3",
+        "columns_mobile": "2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_YpmXzn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MrtiEe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Frequently Asked Questions<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MrtiEe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_Nwm7da": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_XUXNL7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>Lockout tagout is one of the most important practices in maintaining safety in the workplace. By following LOTO procedures, employees can work on equipment or machine without the risk of injury.<\/p><p>The purpose of lockout tagout is to ensure that access to hazardous energy sources is restricted while repairs and maintenance efforts are ongoing. This prevents injury to personnel.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JgFQYH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the OSHA standard for lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>OSHA 29 CFR 1910.147 (The Control of Hazardous Energy) is the standard that informs lockout tagout practices. OSHA outlines all the regulations that businesses and organizations must abide by in order to protect employees from harm and stay OSHA-compliant.<\/p><p>When an organization is found to have violated regulations, OSHA may impose a fine as a consequence of those violations. Certain violations may also result in imprisonment for those found responsible.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FbRXJX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the purpose of the lockout tagout checklist?",
+            "icon": "none",
+            "row_content": "<p>A lockout tagout checklist helps workers who maintain or repair industrial equipment and heavy machinery avoid accidents caused by unintended re-energization and exposure to hazardous energy. It also serves as a physical record of the LOTO program, containing information such as the nature of work, hazardous energy sources, and the employees or personnel involved in the procedure.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Cq6bNB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can lockout tagout devices be reused?",
+            "icon": "none",
+            "row_content": "<p>According to Occupational Safety and Health Administration (OSHA), tagout devices must be non-reusable and self-locking. Meanwhile, lockout devices must be durable, standardized, substantial, identifiable, and excusive for safety in order to be reused.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CVrNwU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Who should be trained on performing lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>OSHA’s LOTO standard (29 CFR 1910.147) requires three groups of employees when training for lockout tagout:<\/p><ol><li><strong>Authorized employees<\/strong> – as a general rule, this group includes electricians, maintenance workers, and specific machine operators. OSHA only permits this group to perform LOTO.<\/li><li><strong>Affected employees<\/strong> – this group includes those who work with machines but are not permitted to conduct LOTO.<\/li><li><strong>Other employees<\/strong> – this group consists of anyone else who works around a machine or equipment where LOTO procedures are used.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "collapsible_row_W8z9Bp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does OSHA require workers to be retrained in lockout tagout procedures?",
+            "icon": "none",
+            "row_content": "<p>OSHA does not require lockout tagout retraining. Retraining, on the other hand, promotes LOTO proficiency among personnel while also introducing improved or new control processes and techniques (OSHA 29 CFR 1910.147 (c) (7) (iii) (C)).<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cY6tze": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Could there be lockout tagout changes in the future?",
+            "icon": "none",
+            "row_content": "<p>With the rise of technological advancements in workplace safety, it’s possible, though not certain. Regardless, OSHA reports increasing requests for deviations and flexibility from the lockout tagout standard for these alternative computer-based safety devices. <\/p><p>While no definitive decisions have been made, employers should ensure that their current lockout tagout practices and programs are completely compliant with the existing standard in the meantime.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VQDNAz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it possible to temporarily remove a lockout tagout device?",
+            "icon": "none",
+            "row_content": "<p>Yes. As part of routine service or maintenance, personnel may be required to temporarily restore energy to a machine or piece of equipment to test or reconfigure the machine or piece of equipment. However, it is crucial to highlight that this only applies to the limited time necessary to complete the task, and full documentation of the procedure must also be done.<\/p><p>Below is a general guideline that must be followed prior to the temporary removal of lockout tagout.<\/p><ol><li>Remove any tools and materials from the machine or equipment.<\/li><li>The area around the machine or equipment must be cleared of people.<\/li><li>Once done, only then can all lockout or tagout devices be removed.<\/li><li>Authorized workers may then energize and test or position the equipment or machinery.<\/li><li>Once testing or positioning is complete, all systems must be de-energized and lockout tagout devices re-applied to continue servicing or maintenance.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "collapsible_row_M3W9r4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What colors are OSHA approved?",
+            "icon": "none",
+            "row_content": "<p>For consistency in visual communication in workplaces across the United States, OSHA and ANSI have established a set of safety color codes (<a href=\"https:\/\/www.osha.gov\/laws-regs\/regulations\/standardnumber\/1910\/1910.144\" target=\"_blank\" title=\"OSHA Safety color code for marking physical hazards\">29 CFR 1910.144<\/a>). According to OSHA standard for safety color codes, red and yellow must be used for marking physical hazards.<\/p><p><strong>Red <\/strong>– must be used for fire-related hazards and emergency switches, bars, and buttons on hazardous machines.<\/p><p><strong>Yellow <\/strong>– must be used for indicating caution, as well as physical hazards, including striking against, stumbling, falling, tripping, and “caught in between.”<\/p><p>Meanwhile, the ANSI Z535 safety sign standard provided 10 safety colors for visual communication, each with specific applications. Here's a brief rundown of the most common colors, what they mean, and where to apply them.<\/p><p><strong>Red <\/strong>– recognized for identifying the most serious hazards, as well as fire hazards and fire equipment. Used for “Danger” signs and labels that warn when death or serious injury.<\/p><p><strong>Yellow <\/strong>– recognized for communicating hazards that may lead to worker injuries if not avoided—usually used for signs and labels that warn against unsafe practices.<\/p><p><strong>Orange<\/strong>– recognized for dangerous machines or equipment that may crush, cut, shock, or injure workers. Used for color coding “Warning” signs and labels when a hazard may cause death or serious injury but not enough to warrant a \"Danger\" notice.<\/p><p><strong>Green<\/strong>– recognized for general safety signs. Used for safety-related messages that don’t touch on specific workplace hazards.<\/p><p><strong>Blue<\/strong>– recognized for communicating information unrelated to personal injuries and other hazards, or most commonly on “Notice” signs. Often used for maintenance work and other safety precautions signs.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PwtYVx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What color is considered high visibility for lockout tagout devices?",
+            "icon": "none",
+            "row_content": "<p>A prominent feature of lockout tagout devices is their bright color, which is often red to boost visibility and allow employees to quickly determine whether or not a device is isolated.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_XUXNL7",
+        "collapsible_row_JgFQYH",
+        "collapsible_row_FbRXJX",
+        "collapsible_row_Cq6bNB",
+        "collapsible_row_CVrNwU",
+        "collapsible_row_W8z9Bp",
+        "collapsible_row_cY6tze",
+        "collapsible_row_VQDNAz",
+        "collapsible_row_M3W9r4",
+        "collapsible_row_PwtYVx"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_tzCyGJ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_wViRmw": {
+          "type": "button",
+          "settings": {
+            "button_label": "More FAQ's",
+            "button_link": "shopify:\/\/pages\/faq",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_wViRmw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "rich_text_tNizLc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XzLkmG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>People Also Ask<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XzLkmG"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_C7WQKg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cqrqAq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's the difference between lockout and tagout?",
+            "icon": "none",
+            "row_content": "<p>Lockout is the isolation of energy from a machine, equipment, or process which physically locks the system in a safe mode. Meanwhile, tagout is a labeling process that is always used when the lockout is required.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WFk36H": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the 6 steps of lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>A proper lockout tagout procedure should include the following 6 steps:<\/p><ol><li><strong>Preparation<\/strong> – The authorized employee must have a checklist, inspect, and accurately identify particular energy hazards present in the machine or equipment. Similarly, the authorized employee must be able to regulate the energy.<\/li><li><strong>Shut Down Equipment<\/strong> – Shut down any operating machinery and equipment that will be repaired or maintained. Ensure that workers affected by the equipment's shutdown are aware of the situation.<\/li><li><strong>Isolate Energy Sources<\/strong> – Make sure all energy sources have been shut off before proceeding. You can also disconnect and block lines and plugs or shut off gas valves, water valves, or forklift gas valves.<\/li><li><strong>Perform Lockout Tagout<\/strong> – All energy isolating devices must be attached to machinery and equipment that is turned off or closed by the authorized personnel. Once completed, a tag out must be added to the lock out so that others other than the authorized employee are notified if they have concerns about why the equipment is secured.<\/li><li><strong>Double-checking for Stored Energy<\/strong> – Isolating or locking out energy sources does not always guarantee zero presence of hazardous energy. Even after performing the lockout tagout, it is critical to double-check any energies that reside or remain in the power supply system, often known as “residual” energies. This stage of the process may need bleeding out the liquid or blowing out the air.<\/li><li><strong>Verifying Isolation<\/strong> – Conducting a lockout tagout requires more than just application; it must also be verified for maximum security. Only when all machines have been shut down, disconnected from power sources, locked out all unexpected start-up components, examined for \"stored\" or \"residual\" energy, and ensured that all procedures have been done correctly, is it safe to work on.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xnjWJR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the main 3 components of lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>According to OSHA, training, written procedures, and inspections are the 3 basic elements in a 100% compliant and efficient lockout tagout program.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_erCBC3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When is lockout tagout required?",
+            "icon": "none",
+            "row_content": "<p>Lockout tagout procedures are required whenever there is a need to repair or service certain machines or equipment in an industrial facility. LOTO should also be done whenever an employee has to enter an area wherein, they will be exposed to hazardous energy, moving parts, and anything else that may cause injury.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qQHbMq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the LOTO kits suited for electrical lockout applications?",
+            "icon": "none",
+            "row_content": "<p>Electrical lockout is meant to secure circuit breakers, plugs, push buttons, and switches. The LOTO devices designed for this purpose are breaker locks, plug and socket lockouts, and emergency power button lockouts.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cqrqAq",
+        "collapsible_row_WFk36H",
+        "collapsible_row_xnjWJR",
+        "collapsible_row_erCBC3",
+        "collapsible_row_qQHbMq"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "rich_text_YpmXzn",
+    "collapsible_content_Nwm7da",
+    "rich_text_tzCyGJ",
+    "rich_text_tNizLc",
+    "collapsible_content_C7WQKg"
+  ]
+}

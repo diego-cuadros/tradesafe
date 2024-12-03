@@ -1,0 +1,170 @@
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "text_icons_rnbPah": {
+      "type": "text-icons",
+      "blocks": {
+        "text_icon_xwfdn8": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/guarantee-icon.png",
+            "title": "2 Year No Hassle Guarantee",
+            "subheading": "We guarantee our products for 2 years. If there's an issue, send a picture with your order details, and we'll quickly replace or refund—no hassle.",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_CeHg9a": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/support-icon.png",
+            "title": "Real 24\/7 Direct Support",
+            "subheading": "No bots. Real people with authority to help you. We are fanatical about delivering you a world class experience.",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_n9mtTj": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/free-shipping-icon.png",
+            "title": "Fast & Free Shipping",
+            "subheading": "Why pay for shipping? Enjoy free, expedited delivery within the lower 48 US states on orders over $60, with no surprise costs at checkout. Most orders arrive in 2-4 days.",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_j9bi9E": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/usa-icon.png",
+            "title": "A USA Based And Owned Company",
+            "subheading": "Trusted by thousands, TRADESAFE is an American-owned company committed to exceeding safety standards and protecting you and your business.",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "text_icon_xwfdn8",
+        "text_icon_CeHg9a",
+        "text_icon_n9mtTj",
+        "text_icon_j9bi9E"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "icon_width_desktop": 30,
+        "text_position": "bottom",
+        "enable_heading_in_box": false,
+        "columns_desktop": 4,
+        "columns_tablet": 4,
+        "auto_fit": false,
+        "column_alignment": "center",
+        "highlight_icon": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "border_width": 1,
+        "border_opacity": 0,
+        "border_spacing": 0,
+        "highlight_border": false,
+        "border_shape": "square",
+        "blur_background": false,
+        "columns_mobile": "1",
+        "icon_width_mobile": 20,
+        "border_spacing_mobile": 0,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "store_information_dmnL9N": {
+          "type": "store_information",
+          "settings": {
+            "heading": "Contact Us",
+            "address": "Reno, Nevada 89502",
+            "phone": "(316) 247-1270",
+            "email": "<a href=\"mailto:hello@trdsf.com\" target=\"_blank\">hello@trdsf.com<\/a>",
+            "footer_logo_enable": true,
+            "footer_logo": "shopify:\/\/shop_images\/Horizontal_Small_Logo.png",
+            "footer_logo_width": 200,
+            "footer_logo_alignment": "left"
+          }
+        },
+        "link_list_hLLd6e": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Absorbent Supplies",
+            "menu": "footer-absorbents"
+          }
+        },
+        "link_list_Gj7FCw": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Eyewash Stations",
+            "menu": "footer-eyewash-stations"
+          }
+        },
+        "link_list_amVLDk": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Lockout Tagout",
+            "menu": "lockout-tagout-1"
+          }
+        },
+        "link_list_nGpXL8": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Workplace Signs",
+            "menu": "footer-workplace-signs"
+          }
+        },
+        "link_list_Xe8ppY": {
+          "type": "link_list",
+          "settings": {
+            "heading": "More",
+            "menu": "footer-legal"
+          }
+        }
+      },
+      "block_order": [
+        "store_information_dmnL9N",
+        "link_list_hLLd6e",
+        "link_list_Gj7FCw",
+        "link_list_amVLDk",
+        "link_list_nGpXL8",
+        "link_list_Xe8ppY"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "color_scheme_bottom": "scheme-1066dd7f-9636-4e67-ba14-100261d15456",
+        "auto_fit": false,
+        "bottom_links": "support",
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "enable_follow_on_shop": false,
+        "enable_collapse": true,
+        "open_first_collapsible_row": false,
+        "margin_top": 52,
+        "margin_top_pages": "all",
+        "padding_top": 52
+      }
+    }
+  },
+  "order": [
+    "text_icons_rnbPah",
+    "footer"
+  ]
+}

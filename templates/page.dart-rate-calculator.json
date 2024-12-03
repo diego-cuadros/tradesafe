@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_m6P937": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3K6cTT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>OSHA DART Rate Calculator: A Quick Guide<\/strong><\/h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3K6cTT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "full",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "823b3363-a082-45e5-aadd-fdb8c5ca1cdf": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16814775959772__823b3363-a082-45e5-aadd-fdb8c5ca1cdf-168357926952985e37-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>What is the OSHA DART Rate Calculator?<\/h2><p>The OSHA DART Rate Calculator computes the Days Away, Restricted, or Transferred rate which is an indicator of the severity of workplace injuries and illnesses.<\/p><p>Accurately measuring DART rate is essential for<strong> identifying areas that need improvement in workplace safety<\/strong>, and for complying with <a href=\"https:\/\/www.osha.gov\/laws-regs\" target=\"_blank\" title=\"OSHA Laws and Regulations\">OSHA regulations<\/a>. It is also important to consider the factors that affect the DART rate such as the type of industry, the number of hours worked, the level of workplace safety, size of the business, the type of injury or illness, and the severity of the injury or illness.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16814775959772__823b3363-a082-45e5-aadd-fdb8c5ca1cdf-168357926952985e37-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "aa427f22-246a-4f9c-9893-fc0da8b0a680": {
+      "type": "dart-rate-calculator",
+      "settings": {}
+    },
+    "3d98b0bb-def7-4873-ab5a-d41bbd440eb0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16814775959772__3d98b0bb-def7-4873-ab5a-d41bbd440eb0-168357926952985e37-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>How to Use the OSHA DART Rate Calculator<\/h2><p>Using the OSHA DART Rate Calculator is a quick process that takes only a few minutes. Here’s a step-by-step guide to measure your DART rate.<\/p><ol><li><strong>Gather the Data<\/strong> - Gather data on the number of employees in your workplace, the total number of days they worked, the number of recordable injuries and illnesses that occurred during the year, and the number of days away from work, restricted work activity, or job transfer resulting from those injuries or illnesses.<\/li><li><strong>Input the Data<\/strong> - Once you have all of the necessary data, you can input it into the DART Rate Calculator above.<\/li><li><strong>Calculate Your DART Rate<\/strong> - The calculator will then generate a DART rate, which is the number of recordable injuries and illnesses per 100 full-time employees that resulted in days away from work, restricted work activity, or job transfer. This rate can be used to compare your workplace's safety performance with others in the same industry.<\/li><li><strong>Interpret the Results<\/strong> - After the calculator generates your DART rate, it's important to interpret the results. A high DART rate indicates that your workplace has a higher incidence of recordable injuries and illnesses, which could mean that improvements are needed in your safety practices. A low DART rate, on the other hand, suggests that your workplace has a strong safety culture and effective safety practices in place.<\/li><\/ol><h2>Common Mistakes to Avoid<\/h2><p>Here are common mistakes that users often do when using the DART Rate calculator:<\/p><ul><li><strong>Misunderstanding the Data Input Requirements<\/strong> - One of the most common mistakes is misunderstanding the data input requirements. Users must provide accurate data to get an accurate DART rate calculation. For example, if the wrong time period is used for the calculation, the results will be incorrect.<\/li><li><strong>Incorrect Data Input<\/strong> - Another common mistake is incorrect data input. This can happen when users make errors in recording or transferring data. It's essential to double-check the data input to ensure accuracy.<\/li><li><strong>Misinterpreting the Results<\/strong> - Finally, users may misinterpret the results of the DART rate calculation. For example, a low DART rate does not necessarily mean a workplace is safe. Other factors, such as near misses or hazardous conditions, should also be considered.<\/li><\/ul><h2>Interpreting and Analyzing DART Rate Results<\/h2><p>Once you have calculated your DART rate, it's essential to analyze the results. <strong>Analyzing the DART rate can help you identify trends, patterns, and potential hazards in your workplace. <\/strong><\/p><p>Determining trends and patterns in the DART rate results can help you understand what's causing injuries and illnesses in your workplace. <\/p><p>If a particular department or work process has a higher DART rate than others,<strong> it may be necessary to investigate further to identify the root causes of the injuries and illnesses.<\/strong> <\/p><p>Once you have identified areas for improvement, you can take steps to implement safety improvements, such as providing additional training, improving equipment or facilities, or implementing new safety procedures.<\/p><p>For example, if your facility has a high number of injuries related to electrical safety, ensuring compliance with your facility's lockout tagout program or upgrading your <a href=\"https:\/\/trdsf.com\/collections\/lockout-tagout\" target=\"_blank\" title=\"Lockout Tagout Devices\">LOTO devices<\/a> can help improve workplace safety. The calculator can also help ensure that employers are meeting OSHA standards related to LOTO, and employees are trained on best practices for electrical safety.<\/p><h2>Benefits of Using the OSHA DART Rate Calculator<\/h2><p>Using the OSHA DART Rate Calculator provides several benefits for employers and employees alike. Here are five key benefits to consider:<\/p><ul><li><strong>Improving Workplace Safety<\/strong> - By identifying workplace injuries and illnesses, the DART rate calculator helps employers pinpoint areas where safety improvements are needed. This can lead to a safer work environment for employees and fewer accidents on the job.<\/li><li><strong>Lowering Workers' Compensation Costs<\/strong> - When workplace injuries are reduced, employers can save on workers' compensation costs. Fewer accidents mean fewer claims, which can help keep insurance premiums low.<\/li><li><strong>Boosting Employee Morale<\/strong> - Employees who feel safe on the job are more likely to have high job satisfaction and better morale. This can lead to increased productivity and better retention rates.<\/li><li><strong>Staying Compliant with OSHA Regulations<\/strong> - Employers are required to comply with OSHA regulations, and using the DART rate calculator can help them stay on track. By identifying areas where safety improvements are needed, employers can work to meet OSHA requirements and avoid potential fines.<\/li><li><strong>Implementing Corrective Action<\/strong> - Finally, the DART rate calculator can help employers implement corrective action plans to improve workplace safety. By identifying trends and patterns in workplace injuries, employers can take targeted action to reduce the risk of accidents and injuries.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16814775959772__3d98b0bb-def7-4873-ab5a-d41bbd440eb0-168357926952985e37-1"
+      ],
+      "custom_css": [
+        ".rich-text {text-align: left;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "collapsible_content_tXVADU": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_PV8dKR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "1. What is the difference between DART and TRIR?",
+            "icon": "none",
+            "row_content": "<p>DART (Days Away, Restricted, or Transferred) and TRIR (Total Recordable Incident Rate) are both used to measure workplace injuries and illnesses. <\/p><p>DART focuses on the number of cases that result in days away from work, job transfer or restriction, while TRIR includes all cases that require medical treatment beyond first aid, regardless of the outcome.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_raMATr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "2. What is a good DART Rate?",
+            "icon": "none",
+            "row_content": "<p>A good DART Rate is industry-specific, and a low rate indicates effective safety programs and practices. <\/p><p>However, a DART Rate is never \"good\" if it represents an injury or illness, and continuous efforts to reduce it should be a priority.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KccELz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "3. How often should I use the OSHA DART Rate Calculator?",
+            "icon": "none",
+            "row_content": "<p>It is recommended to use the OSHA DART Rate Calculator annually, or whenever there is a significant change in workplace conditions, such as new processes or equipment, a change in workforce, or an increase in injuries and illnesses.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_MrHkUf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "4. How can I reduce my DART Rate?",
+            "icon": "none",
+            "row_content": "<p>To reduce your DART Rate, you need to identify the root causes of injuries and illnesses and implement corrective actions to address them. The best practices include ongoing training, hazard identification and control, employee involvement, and continuous improvement.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xPrhJQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "5. Is the OSHA DART Rate Calculator mandatory for all businesses?",
+            "icon": "none",
+            "row_content": "<p>No, the OSHA DART Rate Calculator is not mandatory for all businesses, but it is a useful tool for employers to monitor and evaluate their workplace safety programs and identify areas for improvement.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_PV8dKR",
+        "collapsible_row_raMATr",
+        "collapsible_row_KccELz",
+        "collapsible_row_MrHkUf",
+        "collapsible_row_xPrhJQ"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "title": "FAQ's",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6f205acd-bf3b-4cae-afc7-221a86b2e9f1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16814775959772__6f205acd-bf3b-4cae-afc7-221a86b2e9f1-16837271449a35c992-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>The material provided in this article is for general information purposes only. <\/em><em><strong>It is not intended to replace professional\/legal advice or substitute government regulations, industry standards, or other requirements specific to any business\/activity.<\/strong><\/em><\/p><p><em>While we made sure to provide accurate and reliable information, we make no representation that the details or sources are up-to-date, complete or remain available. Readers should consult with an industrial safety expert, qualified professional, or attorney for any specific concerns and questions.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16814775959772__6f205acd-bf3b-4cae-afc7-221a86b2e9f1-16837271449a35c992-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_m6P937",
+    "823b3363-a082-45e5-aadd-fdb8c5ca1cdf",
+    "aa427f22-246a-4f9c-9893-fc0da8b0a680",
+    "3d98b0bb-def7-4873-ab5a-d41bbd440eb0",
+    "collapsible_content_tXVADU",
+    "6f205acd-bf3b-4cae-afc7-221a86b2e9f1"
+  ]
+}

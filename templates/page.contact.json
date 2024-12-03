@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "image_banner_DqazF6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_K8PmdH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact TradeSafe",
+            "size": "h0"
+          }
+        },
+        "text_ecYwEc": {
+          "type": "text",
+          "settings": {
+            "text": "Wondering about an order, our products, or anything else about us?... we’re here to assist!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_K8PmdH",
+        "text_ecYwEc"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/safety-team-meeting.png",
+        "image_overlay_opacity": 70,
+        "image_height": "small",
+        "image_height_mobile": "small-mobile",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": false,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#000000",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#565656",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "882ae9d2-b3e9-4bb3-b7c2-a3083565f24f": {
+      "type": "maps",
+      "blocks": {
+        "template--18627972956461__882ae9d2-b3e9-4bb3-b7c2-a3083565f24f-16855376465a7fd714-0": {
+          "type": "working_time",
+          "settings": {
+            "title": "Business hour"
+          }
+        },
+        "template--18627972956461__882ae9d2-b3e9-4bb3-b7c2-a3083565f24f-16855376465a7fd714-1": {
+          "type": "working_time",
+          "settings": {
+            "title": "Business hour"
+          }
+        },
+        "template--18627972956461__882ae9d2-b3e9-4bb3-b7c2-a3083565f24f-16855376465a7fd714-2": {
+          "type": "working_time",
+          "settings": {
+            "title": "Business hour"
+          }
+        },
+        "c580f205-257a-41c7-9377-71176d742903": {
+          "type": "physical_address",
+          "settings": {
+            "title": "Your physical address"
+          }
+        }
+      },
+      "block_order": [
+        "template--18627972956461__882ae9d2-b3e9-4bb3-b7c2-a3083565f24f-16855376465a7fd714-0",
+        "template--18627972956461__882ae9d2-b3e9-4bb3-b7c2-a3083565f24f-16855376465a7fd714-1",
+        "template--18627972956461__882ae9d2-b3e9-4bb3-b7c2-a3083565f24f-16855376465a7fd714-2",
+        "c580f205-257a-41c7-9377-71176d742903"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "title": "Heading",
+        "heading_size": "h1",
+        "description": "",
+        "badge": "",
+        "overlapping_content_layout": true,
+        "color_scheme": "background-2",
+        "api_library": "embed",
+        "coordinates": "Coordinates of a place",
+        "map_height": 525,
+        "map_zoom": 18,
+        "map_type": "roadmap",
+        "button_label": "Button label",
+        "button_style_secondary": false,
+        "button_link": "",
+        "accessibility_info": "Google Maps",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Xxa9qC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_q7ipgV": {
+          "type": "column",
+          "settings": {
+            "icon": "chat",
+            "title": "Chat with our live help",
+            "text": "<p>Quick answers are easy with one of our dedicated team members Monday – Friday: 8am – 5pm CST. Simply click the button at the bottom left of each page on the site.<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "solid",
+            "button_open_new_tab": false,
+            "card_color_text": "#000000",
+            "color_button_text": "#ffffff",
+            "color_button": "#2563eb",
+            "card_color_background": "#ffffff",
+            "card_color_background_gradient": ""
+          }
+        },
+        "column_kCTLxg": {
+          "type": "column",
+          "settings": {
+            "icon": "mail",
+            "title": "Prefer to put it in writing?",
+            "text": "<p>We’d love to hear more from you! Fill in the boxes below with your contact information and any necessary details. We will forward it to the appropriate team member and respond immediately.<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_style": "solid",
+            "button_open_new_tab": false,
+            "card_color_text": "#000000",
+            "color_button_text": "#ffffff",
+            "color_button": "#2563eb",
+            "card_color_background": "#ffffff",
+            "card_color_background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_q7ipgV",
+        "column_kCTLxg"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "media_type": "icon",
+        "media_width_desktop": "30",
+        "image_ratio": "adapt",
+        "text_position": "right",
+        "columns_desktop": 2,
+        "columns_tablet": 2,
+        "desktop_gap": 30,
+        "auto_fit": true,
+        "column_alignment": "left",
+        "enable_shadow": false,
+        "background_transparent": true,
+        "button_label": "",
+        "button_link": "",
+        "button_open_new_tab": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "scheme-e4f362cc-41f9-4624-af43-310c1f8ae9e2",
+        "enable_parallax_scrolling_effect": false,
+        "background_image_overlay_color": "button",
+        "columns_mobile": "2",
+        "mobile_gap": 30,
+        "media_width_mobile": "30",
+        "swipe_on_mobile": true,
+        "text_boxes_border_thickness": 0,
+        "text_boxes_border_opacity": 0,
+        "text_boxes_radius": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "blocks": {
+        "c9e382bc-285f-41fc-a753-956539360c7f": {
+          "type": "address",
+          "settings": {
+            "name": "Las Vegas, Nevada 89102",
+            "phone": "",
+            "direction": "",
+            "email": "cs@trdsf.com"
+          }
+        },
+        "additional_field_YTi7YM": {
+          "type": "additional_field",
+          "settings": {
+            "title": "Order Nubmer",
+            "information_id": "",
+            "type": "text",
+            "options": "",
+            "required": true
+          }
+        },
+        "c17536c2-bac0-4885-834f-6f3efc3850fa": {
+          "type": "social_media_icons",
+          "settings": {
+            "title": "Follow us"
+          }
+        }
+      },
+      "block_order": [
+        "c9e382bc-285f-41fc-a753-956539360c7f",
+        "additional_field_YTi7YM",
+        "c17536c2-bac0-4885-834f-6f3efc3850fa"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h0",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "3e50a7fa-ef6f-4125-90d4-609ab7b2f2b5": {
+      "type": "spacer",
+      "settings": {
+        "height": 40
+      }
+    }
+  },
+  "order": [
+    "image_banner_DqazF6",
+    "882ae9d2-b3e9-4bb3-b7c2-a3083565f24f",
+    "multicolumn_Xxa9qC",
+    "form",
+    "3e50a7fa-ef6f-4125-90d4-609ab7b2f2b5"
+  ]
+}

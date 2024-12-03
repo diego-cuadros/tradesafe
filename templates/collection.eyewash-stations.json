@@ -1,0 +1,308 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "collection_tree_data": "",
+        "preload_background_image": false,
+        "enable_parallax_scrolling_effect": true,
+        "show_number_of_products": false,
+        "icon_size": "small",
+        "icon_border_shape": "square",
+        "collection_icon_color_scheme": "background-1",
+        "enable_transparent_header": false,
+        "text_color_transparent": "#ffffff"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 48,
+        "columns_desktop": 3,
+        "pagination_style": "numbers",
+        "preload_first_image": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "include_collection_in_url": true,
+        "enable_quick_add": true,
+        "enable_compare": true,
+        "enable_quick_view": true,
+        "show_color_swatches": true,
+        "color_swatches_style": "custom",
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "filter_include_group_name": true,
+        "enable_sorting": true,
+        "categories_filter": "dawn-collection-filter",
+        "categories_filter_type": "link",
+        "filter_collapse": "collapse",
+        "show_collection_description": true,
+        "description_position": "below",
+        "description_style": "body",
+        "description_alignment": "left",
+        "truncate_description": 0,
+        "read_more_button": "Read more",
+        "columns_tablet": "3",
+        "columns_mobile": "2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_YpmXzn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MrtiEe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Frequently Asked Questions<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MrtiEe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_Nwm7da": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_XUXNL7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often should eyewash stations be checked?",
+            "icon": "none",
+            "row_content": "<p>The Occupational Safety and Health Administration (OSHA) has made it clear that eyewash stations should be checked at least twice per shift or use.<\/p><p>OSHA has also determined that eyewash stations should be checked for possible damage or other issues at least once a year. Another recommendation is that eyewash stations should be inspected during the first week of every month. If something major needs to be fixed, it is best to do it as soon as possible to minimize any hazards.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JgFQYH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the OSHA requirement for eyewash stations?",
+            "icon": "none",
+            "row_content": "<p>Eyewash stations are one of the most important safety features in a facility because they're used to flush out harmful substances from the eyes.<\/p><p>According to OSHA 29 CFR 1910.151(c), the primary function of an eyewash station is to provide emergency relief for an individual who is experiencing irritation, inflammation, or other kinds of discomfort due to exposure to harmful substances. OSHA requires that there must be an eyewash station no more than 25 feet away from work areas.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FbRXJX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where are eyewash stations located?",
+            "icon": "none",
+            "row_content": "<p>Eyewash stations are typically found in many workplaces where there is a risk of injury to the eyes, such as laboratories or factories. Sometimes, eyewash stations can be found in other places due to the potential for eye injuries, such as at construction sites.<\/p><p>Additionally, eyewash stations need to be strategically placed so that if a person accidentally comes into contact with a hazardous substance, they can wash it from their eyes. This can prevent or minimize eye damage.<\/p><p>In order to comply with OSHA's safety standards, most facilities will have eyewash stations placed in the following areas:<\/p><ul><li>Workplace entrances and exits<\/li><li>Workplace toilets<\/li><li>Areas where hazardous chemicals are used<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Cq6bNB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How many eyewash stations are required?",
+            "icon": "none",
+            "row_content": "<p>This will entirely depend on the size of the workplace and the number of personnel working in the targeted areas. Ideally, an authorized person will inspect the facility to determine how many eyewash stations are necessary. Workplaces where workers handle hazardous chemicals are required to have an eyewash and a body drenching equipment no more than 100 feet from the work station\/s. In case of emergencies, employees should be able to reach and use the eyewash and body drenching equipment within 10 seconds.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CVrNwU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where are eyewash stations required?",
+            "icon": "none",
+            "row_content": "<p>In any environment where the employee’s eyes are compromised, an eyewash station is required. Some of the most common workplaces are:<\/p><ul><li>Factories<\/li><li>Warehouses<\/li><li>Waste Management Facilities<\/li><li>Laboratories<\/li><\/ul><p>The physical layout of the workplace must be considered in locating the eyewash station. Accessibility is very important for devices used to address workplace emergencies.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_W8z9Bp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What type of eyewash stations do TRADESAFE have?",
+            "icon": "none",
+            "row_content": "<p>TRADESAFE offers three types of eyewash stations: pedestal, portable, and wall mount eyewash stations. Pedestal eyewash station is a free standing device mounted to the floor. Wall mount eyewash station, as the name suggests, is mounted to the wall and ideal for workplaces with tight conditions. A portable eyewash station offers the most convenience when it comes to movability because it can be easily moved around where it is needed, however, it needs to be constantly checked if there is enough flushing liquid to use in case of emergencies.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cY6tze": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How should an eyewash station be checked?",
+            "icon": "none",
+            "row_content": "<p>The main inspections to be made to an eyewash station are: <\/p><ul><li>Check for running water<\/li><li>Check the flow of the water<\/li><li>Check the balance of left and right eye wash nozzles<\/li><li>Check the temperature of the water<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_XUXNL7",
+        "collapsible_row_JgFQYH",
+        "collapsible_row_FbRXJX",
+        "collapsible_row_Cq6bNB",
+        "collapsible_row_CVrNwU",
+        "collapsible_row_W8z9Bp",
+        "collapsible_row_cY6tze"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_tzCyGJ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_wViRmw": {
+          "type": "button",
+          "settings": {
+            "button_label": "More FAQ's",
+            "button_link": "shopify:\/\/pages\/faq",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_wViRmw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "rich_text_tNizLc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XzLkmG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>People Also Ask<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XzLkmG"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_C7WQKg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cqrqAq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's the difference between lockout and tagout?",
+            "icon": "none",
+            "row_content": "<p>Lockout is the isolation of energy from a machine, equipment, or process which physically locks the system in a safe mode. Meanwhile, tagout is a labeling process that is always used when the lockout is required.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WFk36H": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the 6 steps of lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>A proper lockout tagout procedure should include the following 6 steps:<\/p><ol><li><strong>Preparation<\/strong> – The authorized employee must have a checklist, inspect, and accurately identify particular energy hazards present in the machine or equipment. Similarly, the authorized employee must be able to regulate the energy.<\/li><li><strong>Shut Down Equipment<\/strong> – Shut down any operating machinery and equipment that will be repaired or maintained. Ensure that workers affected by the equipment's shutdown are aware of the situation.<\/li><li><strong>Isolate Energy Sources<\/strong> – Make sure all energy sources have been shut off before proceeding. You can also disconnect and block lines and plugs or shut off gas valves, water valves, or forklift gas valves.<\/li><li><strong>Perform Lockout Tagout<\/strong> – All energy isolating devices must be attached to machinery and equipment that is turned off or closed by the authorized personnel. Once completed, a tag out must be added to the lock out so that others other than the authorized employee are notified if they have concerns about why the equipment is secured.<\/li><li><strong>Double-checking for Stored Energy<\/strong> – Isolating or locking out energy sources does not always guarantee zero presence of hazardous energy. Even after performing the lockout tagout, it is critical to double-check any energies that reside or remain in the power supply system, often known as “residual” energies. This stage of the process may need bleeding out the liquid or blowing out the air.<\/li><li><strong>Verifying Isolation<\/strong> – Conducting a lockout tagout requires more than just application; it must also be verified for maximum security. Only when all machines have been shut down, disconnected from power sources, locked out all unexpected start-up components, examined for \"stored\" or \"residual\" energy, and ensured that all procedures have been done correctly, is it safe to work on.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xnjWJR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the main 3 components of lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>According to OSHA, training, written procedures, and inspections are the 3 basic elements in a 100% compliant and efficient lockout tagout program.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_erCBC3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When is lockout tagout required?",
+            "icon": "none",
+            "row_content": "<p>Lockout tagout procedures are required whenever there is a need to repair or service certain machines or equipment in an industrial facility. LOTO should also be done whenever an employee has to enter an area wherein, they will be exposed to hazardous energy, moving parts, and anything else that may cause injury.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qQHbMq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the LOTO kits suited for electrical lockout applications?",
+            "icon": "none",
+            "row_content": "<p>Electrical lockout is meant to secure circuit breakers, plugs, push buttons, and switches. The LOTO devices designed for this purpose are breaker locks, plug and socket lockouts, and emergency power button lockouts.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cqrqAq",
+        "collapsible_row_WFk36H",
+        "collapsible_row_xnjWJR",
+        "collapsible_row_erCBC3",
+        "collapsible_row_qQHbMq"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "rich_text_YpmXzn",
+    "collapsible_content_Nwm7da",
+    "rich_text_tzCyGJ",
+    "rich_text_tNizLc",
+    "collapsible_content_C7WQKg"
+  ]
+}

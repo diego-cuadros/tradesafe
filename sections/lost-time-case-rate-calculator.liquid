@@ -1,0 +1,162 @@
+<div class="page-width page-width--narrow">
+  <div class="calculator">
+   <form>
+      <fieldset>
+        <div class="content left-content">
+          <label class="col-form-label mt-0 pt-0 mb-1" for="total_number">Number of lost time cases <i>(annually)</i></label>
+          <input id="total_number" name="total_number" type="number" min="0" value="" placeholder="1" class="form-control form-input" required="">
+          <p><a onclick="$('#lost_time_case_info').toggle();" style="color: rgb(182, 48, 49);" href="javascript:;">What is a lost time case?</a></p>
+          <p style="display: none;font-size: 14px;background-color: rgb(238, 238, 238);padding: 15px;margin: -10px 0 0;" id="lost_time_case_info">Any workplace injury or illness where an employee is unable to return to work or is assigned restricted work.</p>
+          <p><sup style="float: left; margin-top: 3px; margin-right: 3px;">x</sup> 200,000 /</p>
+          <label class="col-form-label mt-0 pt-0 mb-1" for="hours_worked">Total number of hours worked by all employees <i>(annually)</i></label>
+          <input id="hours_worked" name="hours_worked" type="number" min="0" value="" placeholder="28400" class="form-control form-input" required="">
+          <p>=</p>
+          <label class="col-form-label mt-0 pt-0 mb-1" for="incident_rate">Lost Time Incident Rate</label>
+          <input id="incident_rate" name="incident_rate" type="number" value="7.04" class="form-control form-input" readonly="">
+        </div>
+        <div class="content right-content">
+          <div class="incident_rate_result_box">
+            <h2 id="incident_rate_result">7.04</h2>
+            <h3>LTIR</h3>
+          </div>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Lost Time Case Rate",
+  "tag": "section",
+  "class": "section lost-time-case-rate-calculator",
+  "settings": [
+  ],
+  "presets": [
+    {
+      "name": "Lost Time Case Rate Calculator"
+    }
+  ]
+}
+{% endschema %}
+
+
+{% stylesheet %}
+.main-page-title{
+  margin-bottom: 0;
+}
+
+.lost-time-case-rate-calculator{
+  background-color: #FAFAFA;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+.calculator{
+  box-shadow: 5px 6px 28px 0px rgba(0,0,0,0.75);
+  background-color:#fff;
+  border-radius: 5px;
+  padding: 30px;
+  margin-bottom: 100px;
+}
+.calculator > :focus-visible{
+  box-shadow: unset;
+  outline: unset;
+  outline-offset: unset;
+}
+.calculator form{
+
+}
+.calculator form fieldset{
+  display: flex;
+  padding: 0;
+  border: 0;
+}
+.calculator form fieldset .content{
+  flex: 50%;
+  align-self: center;
+}
+.calculator form fieldset .content input[type=number]{
+  width: 100%;
+  clear: both;
+  max-width: 200px;
+  padding: 15px 15px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+}
+.calculator form fieldset .content input[readonly]{
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+.calculator form fieldset .content.right-content{
+  text-align: center;
+}
+.calculator form fieldset label{
+  font-weight: bold;
+  display: block;
+}
+.calculator form fieldset label i{
+  font-weight: normal;
+}
+.calculator form fieldset .incident_rate_result_box{
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+  text-align: center;
+  width: 160px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.calculator form fieldset .incident_rate_result_box h2{
+  margin: 0;
+  font-size: 25px;
+}
+.calculator form fieldset .incident_rate_result_box h3{
+  margin: 0;
+}
+
+@media screen and (max-width: 500px) {
+  .calculator form fieldset{
+    display: block;
+  }
+  .calculator form fieldset .content {
+    flex: none;
+  }
+  .calculator form fieldset .incident_rate_result_box{
+    display: none;
+  }
+}
+
+
+{% endstylesheet %}
+
+{% javascript %}
+$(function() {
+
+$( "#total_number" ).on('keyup keypress', function(e) {
+  compute();
+});
+
+$( "#hours_worked" ).on('keyup keypress', function(e) {
+  compute();
+});
+
+
+ 
+function compute(){
+  let total_number = parseFloat($('#total_number').val());
+  total_number = total_number > 0 ? total_number : 1;
+  let hours_worked = parseFloat($('#hours_worked').val());
+  hours_worked = hours_worked ? hours_worked : 28400;
+  let incident_rate = 0;
+
+  console.log(total_number+" x "+hours_worked);
+
+  incident_rate = ( total_number * 200000 )/hours_worked;
+  let incident_rate_round_off = incident_rate.toFixed(2);
+
+  $('#incident_rate').val(incident_rate_round_off);
+  $('#incident_rate_result').text(incident_rate_round_off);
+}
+
+});
+{% endjavascript %}

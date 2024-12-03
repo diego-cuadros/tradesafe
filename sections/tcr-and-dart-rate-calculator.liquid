@@ -1,0 +1,266 @@
+<div class="page-width page-width--narrow lost-time-case-rate-calculator">
+  <div class="calculator">
+   <form>
+      <fieldset>
+        <div class="content left-content">
+          <h2>TCR Calculator</h2>
+          <p><a onclick="$('#tcr_incidents_info').toggle();" style="color: rgb(182, 48, 49);" href="javascript:;">What is a TCR incident? </a></p>
+          <div style="display: none;font-size: 14px;background-color: rgb(238, 238, 238);padding: 15px;margin: -10px 0 0;" id="tcr_incidents_info">
+            <p>The TCR rate aka TRIR (Total Recordable Incident Rate) quantifies a company's “frequency” of injuries per 100 workers during a 1 year time period.</p>
+          </div>
+
+          <label class="col-form-label mt-0 pt-0 mb-1" for="tcr_industry">Industry</label>
+          <select id="tcr_industry" id="tcr_industry">
+            <option value="" selected="" disabled="" hidden="">Select</option>
+            <option value="4.2" name="Natural Resources and Mining">Natural Resources and Mining</option>
+            <option value="3.2" name="Construction">Construction</option>
+            <option value="3.6" name="Manufacturing">Manufacturing</option>
+            <option value="3.9" name="Educational and Health Services">Educational and Health Services</option>
+            <option value="5" name="Local Government">Local Government</option>
+            <option value="3.5" name="Goods-producing">Goods-producing</option>
+            <option value="3.4" name="Trade, Transportation, and Utilities">Trade, Transportation, and Utilities</option>
+            <option value="2.9" name="Private Industry">Private Industry</option>
+            <option value="3.4" name="Leisure, Entertainment, and Hospitality">Leisure, Entertainment, and Hospitality</option>
+            <option value="3.7" name="Service-providing">Service-providing</option>
+            <option value="3.2" name="All Industries">All Industries</option>
+          </select>
+
+          <label class="col-form-label mt-0 pt-0 mb-1" for="tcr_total_number">Total Number of<br />Injuries and Illnesses</label>
+          <input id="tcr_total_number" name="tcr_total_number" type="number" min="0" value="" placeholder="1" class="form-control form-input" required="">
+          
+          <p><sup style="float: left; margin-top: 3px; margin-right: 3px;">x</sup> 200,000 /</p>
+          <label class="col-form-label mt-0 pt-0 mb-1" for="tcr_hours_worked">Number of Hours Worked by All Employees</i></label>
+          <input id="tcr_hours_worked" name="tcr_hours_worked" type="number" min="0" value="" placeholder="28400" class="form-control form-input" required="">
+          <p>=</p>
+          <label class="col-form-label mt-0 pt-0 mb-1" for="tcr_incident_rate">OSHA Incident Rate</label>
+          <input id="tcr_incident_rate" name="tcr_incident_rate" type="number" value="7.04" class="form-control form-input" style="display: none;" readonly="">
+          <div class="incident_rate_result_box">
+            <h2 id="tcr_incident_rate_result">7.04</h2>
+            <h3>TCR</h3>
+          </div>
+
+        </div>
+        <div class="content right-content">
+          <h2>DART Calculator</h2>
+          <p><a onclick="$('#dart_incidents_info').toggle();" style="color: rgb(182, 48, 49);" href="javascript:;">What is a DART incident? </a></p>
+          <div style="display: none;font-size: 14px;background-color: rgb(238, 238, 238);padding: 15px;margin: -10px 0 0;" id="dart_incidents_info">
+            <p>The DART rate (Days Away Restricted Transfer) quantifies a company’s “severity” rate of injuries that require days away per 100 workers during a 1 year period.</p>
+          </div>
+
+          <label class="col-form-label mt-0 pt-0 mb-1" for="dart_industry">Industry</label>
+          <select id="dart_industry" id="dart_industry">
+            <option value="" selected="" disabled="" hidden="">Select</option>
+            <option value="4.2" name="Natural Resources and Mining">Natural Resources and Mining</option>
+            <option value="3.2" name="Construction">Construction</option>
+            <option value="3.6" name="Manufacturing">Manufacturing</option>
+            <option value="3.9" name="Educational and Health Services">Educational and Health Services</option>
+            <option value="5" name="Local Government">Local Government</option>
+            <option value="3.5" name="Goods-producing">Goods-producing</option>
+            <option value="3.4" name="Trade, Transportation, and Utilities">Trade, Transportation, and Utilities</option>
+            <option value="2.9" name="Private Industry">Private Industry</option>
+            <option value="3.4" name="Leisure, Entertainment, and Hospitality">Leisure, Entertainment, and Hospitality</option>
+            <option value="3.7" name="Service-providing">Service-providing</option>
+            <option value="3.2" name="All Industries">All Industries</option>
+          </select>
+
+          <label class="col-form-label mt-0 pt-0 mb-1" for="dart_total_number">Total Number of<br />DART Incidents</label>
+          <input id="dart_total_number" name="dart_total_number" type="number" min="0" value="" placeholder="1" class="form-control form-input" required="">
+          
+          <p><sup style="float: left; margin-top: 3px; margin-right: 3px;">x</sup> 200,000 /</p>
+          <label class="col-form-label mt-0 pt-0 mb-1" for="dart_hours_worked">Number of Hours Worked by All Employees</label>
+          <input id="dart_hours_worked" name="dart_hours_worked" type="number" min="0" value="" placeholder="28400" class="form-control form-input" required="">
+          <p>=</p>
+          <label class="col-form-label mt-0 pt-0 mb-1" for="dart_incident_rate">DART Rate</label>
+          <input id="dart_incident_rate" name="dart_incident_rate" type="number" value="7.04" class="form-control form-input" style="display: none;" readonly="">
+          <div class="incident_rate_result_box">
+            <h2 id="dart_incident_rate_result">7.04</h2>
+            <h3>DART</h3>
+          </div>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "TCR and DART Rate",
+  "tag": "section",
+  "class": "section tcr-and-dart-rate-calculator",
+  "settings": [
+  ],
+  "presets": [
+    {
+      "name": "TCR and DART Rate"
+    }
+  ]
+}
+{% endschema %}
+
+
+{% stylesheet %}
+.main-page-title{
+  margin-bottom: 0;
+}
+
+.tcr-and-dart-rate-calculator{
+  background-color: #FAFAFA;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+  
+.calculator{
+  background-color:#fff;
+  box-shadow: 5px 6px 28px 0px rgba(0,0,0,0.75);
+  border-radius: 5px;
+  padding: 30px;
+  margin-bottom: 100px;
+}
+.calculator > :focus-visible{
+  box-shadow: unset;
+  outline: unset;
+  outline-offset: unset;
+}
+.calculator form{
+
+}
+.calculator form fieldset{
+  display: flex;
+  padding: 0;
+  border: 0;
+}
+.tcr-and-dart-rate-calculator .calculator form fieldset .content{
+  flex: 50%;
+  align-self: unset;
+  padding-right: 10px;
+}
+.tcr-and-dart-rate-calculator .calculator form fieldset .content.right-content{
+  text-align: left;
+}
+.tcr-and-dart-rate-calculator .calculator form fieldset .content select{
+  width: 100%;
+  clear: both;
+  max-width: 270px;
+  padding: 15px 15px;
+  margin-bottom: 10px;
+  font-size: 16px !important;
+  border: 1px solid #ccc;
+ -moz-appearance:none; /* Firefox */
+  -webkit-appearance:none; /* Safari and Chrome */
+  appearance:none;
+}
+
+.calculator form fieldset .content input[type=number]{
+  width: 100%;
+  clear: both;
+  max-width: 200px;
+  padding: 15px 15px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+}
+.calculator form fieldset .content input[readonly]{
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+.calculator form fieldset .content.right-content{
+  text-align: center;
+}
+.calculator form fieldset label{
+  font-weight: bold;
+  display: block;
+}
+.calculator form fieldset label i{
+  font-weight: normal;
+}
+.calculator form fieldset .incident_rate_result_box{
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+  text-align: center;
+  width: 160px;
+  margin: 5px 0 0;
+  padding: 20px;
+}
+.calculator form fieldset .incident_rate_result_box h2{
+  margin: 0;
+  font-size: 25px;
+}
+.calculator form fieldset .incident_rate_result_box h3{
+  margin: 0;
+}
+
+@media screen and (max-width: 500px) {
+  .calculator form fieldset{
+    display: block;
+  }
+  .calculator form fieldset .content {
+    flex: none;
+  }
+  .tcr-and-dart-rate-calculator .calculator form fieldset .content.left-content{
+    padding-bottom: 15px;
+  }
+  .tcr-and-dart-rate-calculator .calculator form fieldset .content.right-content{
+    margin-top: 15px;
+    padding-top: 15px;
+  }
+  .tcr-and-dart-rate-calculator .calculator form fieldset .incident_rate_result_box{
+    display: block;
+  }
+}
+
+
+{% endstylesheet %}
+
+{% javascript %}
+$(function() {
+
+$( "#tcr_total_number" ).on('keyup keypress', function(e) {
+  compute_tcr();
+});
+
+$( "#tcr_hours_worked" ).on('keyup keypress', function(e) {
+  compute_tcr();
+});
+
+$( "#dart_total_number" ).on('keyup keypress', function(e) {
+  compute_dart();
+});
+
+$( "#dart_hours_worked" ).on('keyup keypress', function(e) {
+  compute_dart();
+});
+
+function compute_tcr(){
+  let total_number = parseFloat($('#tcr_total_number').val());
+  total_number = total_number > 0 ? total_number : 1;
+  let hours_worked = parseFloat($('#tcr_hours_worked').val());
+  hours_worked = hours_worked ? hours_worked : 28400;
+  let incident_rate = 0;
+
+  console.log(total_number+" x "+hours_worked);
+
+  incident_rate = ( total_number * 200000 )/hours_worked;
+  let incident_rate_round_off = incident_rate.toFixed(2);
+
+  $('#tcr_incident_rate').val(incident_rate_round_off);
+  $('#tcr_incident_rate_result').text(incident_rate_round_off);
+}
+
+function compute_dart(){
+  let total_number = parseFloat($('#dart_total_number').val());
+  total_number = total_number > 0 ? total_number : 1;
+  let hours_worked = parseFloat($('#dart_hours_worked').val());
+  hours_worked = hours_worked ? hours_worked : 28400;
+  let incident_rate = 0;
+
+  console.log(total_number+" x "+hours_worked);
+
+  incident_rate = ( total_number * 200000 )/hours_worked;
+  let incident_rate_round_off = incident_rate.toFixed(2);
+
+  $('#dart_incident_rate').val(incident_rate_round_off);
+  $('#dart_incident_rate_result').text(incident_rate_round_off);
+
+}
+
+});
+{% endjavascript %}

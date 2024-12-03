@@ -1,0 +1,213 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_egL9eP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EVN7Mm": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>OSHA DART Rate and TRIR Calculator: Ultimate Guide<\/strong><\/h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EVN7Mm"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1bd0ea01-db7d-4a9c-9a14-7bfea1dc3533": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16816324870364__1bd0ea01-db7d-4a9c-9a14-7bfea1dc3533-1683727978ed672380-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>What is TRIR and DART Rate?<\/h2><p>Workplace safety is a paramount concern for organizations across industries. To effectively measure and manage safety performance, two essential metrics come into play: <strong>Total Recordable Incident Rate (TRIR) and Days Away, Restricted, or Transferred (DART) Rate<\/strong>, both of which were developed by the <a href=\"https:\/\/www.osha.gov\/\" target=\"_blank\" title=\"Occupational Safety and Health Administration\">Occupational Safety and Health Administration (OSHA)<\/a>.<\/p><p>TRIR and DART Rate serve as critical indicators of workplace safety by providing valuable insights into injury rates and their impact on employees. TRIR is also commonly called the OSHA incident rate, and is used interchangeably with Total Case Rate (TCR) and Total Case Incident Rate (TCIR).<\/p><p>This metric measures the total number of recordable cases per unit of work hours, giving organizations a clear understanding of the overall injury incidence. On the other hand, DART Rate focuses on the number of cases <strong>resulting in days away from work, restricted work activities, or job transfers. <\/strong><\/p><p>By tracking these metrics, companies gain <strong>a deeper understanding of the severity and impact of injuries<\/strong> on employee well-being and productivity.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16816324870364__1bd0ea01-db7d-4a9c-9a14-7bfea1dc3533-1683727978ed672380-1"
+      ],
+      "custom_css": [
+        ".rich-text {text-align: left;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "eef5b094-8c66-46f7-b3b0-da28c5464e90": {
+      "type": "tcr-and-dart-rate-calculator",
+      "settings": {}
+    },
+    "1de3c42b-8101-43d8-8c9f-f632567eaa6d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16816324870364__1de3c42b-8101-43d8-8c9f-f632567eaa6d-1683727978ed672380-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Total Recordable Incident Rate (TRIR)<\/h2><p>TRIR, or Total Recordable Incident Rate, <strong>measures the overall frequency of recordable cases in the workplace.<\/strong> It provides an indication of the number of injuries and illnesses per unit of work hours.<\/p><p>TRIR includes all recordable cases, such as occupational injuries, illnesses, and fatalities, that meet the criteria set by regulatory agencies. These cases encompass a range of injuries, from minor incidents to severe accidents. <\/p><p>Here is a step-by-step guide in using the TRIR calculator:<\/p><ol><li>Identify the total number of recordable cases within a specific time period.<\/li><li>Determine the number of work hours for the same period.<\/li><li>Enter the data in the TRIR Calculator above.<\/li><li>Interpret and analyze the results.<\/li><\/ol><p>The calculated TRIR represents the number of recordable cases per 100 full-time equivalent employees. A higher TRIR indicates a higher frequency of injuries, suggesting a need for further safety improvements.<\/p><h2>Benefits of Using TRIR<\/h2><p>Using TRIR offers several benefits, including:<\/p><ul><li>Tracking injury frequency and identifying potential problem areas.<\/li><li>Providing a benchmark for comparison within the organization and across industries.<\/li><li>Evaluating the effectiveness of safety initiatives and interventions.<\/li><li>Enhancing communication and awareness regarding workplace safety.<\/li><\/ul><h2>Days Away, Restricted, or Transferred (DART) Rate<\/h2><p>DART Rate is <strong>a safety metric that measures the number of cases resulting in days away from work, restricted work activities, or job transfers per unit of work hour<\/strong>s. <\/p><p>It encompasses cases that result in days away from work, restricted work activities, or job transfers due to <a href=\"https:\/\/trdsf.com\/blogs\/news\/the-top-7-occupational-diseases-in-industry-workers\" target=\"_blank\" title=\"The Top 7 Occupational Diseases in Industry Workers\">occupational injuries or illnesses<\/a>. It includes a range of injuries, from minor incidents with limited work restrictions to severe cases requiring significant time off. <\/p><p>Here is a step-by-step guide in using the DART calculator:<\/p><ol><li>Identify the total number of cases resulting in days away, restricted work, or job transfers within a specific time period.<\/li><li>Determine the number of work hours for the same period.<\/li><li>Enter the data in the DART Calculator above.<\/li><li>Interpret and analyze the results.<\/li><\/ol><p>The calculated DART Rate represents the number of cases resulting in days away, restricted work, or job transfers per 100 full-time equivalent employees. <\/p><p><strong>A higher DART Rate indicates a higher severity of injuries<\/strong>, highlighting the need for targeted interventions to prevent such incidents.<\/p><h2>Benefits of Using DART Rate<\/h2><p>Utilizing DART Rate offers several benefits, including:<\/p><ul><li>Focusing on the severity of injuries and their impact on productivity and employee well-being.<\/li><li>Providing insights into the effectiveness of safety initiatives in reducing severe incidents.<\/li><li>Facilitating benchmarking and comparisons within the organization and across industries.<\/li><li>Enhancing proactive measures to prevent injuries leading to days away, restricted work, or job transfers.<\/li><\/ul><h2>Utilizing Both TRIR and DART Rate<\/h2><p>By integrating both TRIR and DART Rate, organizations can perform a comprehensive safety analysis. <\/p><p>This combination offers a holistic view of safety performance, providing insights into both the frequency and severity of incidents. Identifying patterns and trends in the data becomes more robust, enabling <strong>proactive measures to prevent injuries and improve overall safety culture. <\/strong><\/p><p>Using both TRIR and DART Rate enhances decision-making processes and allows organizations to allocate resources effectively such as improving safety programs and  investing on <a href=\"https:\/\/trdsf.com\/collections\/lockout-tagout\" target=\"_blank\" title=\"Lockout Tagout Devices\">safety devices<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16816324870364__1de3c42b-8101-43d8-8c9f-f632567eaa6d-1683727978ed672380-1"
+      ],
+      "custom_css": [
+        ".rich-text {text-align: left;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_kpF6ra": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_3UyJjC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "1. Are there industry-specific benchmarks for TRIR and DART Rate?",
+            "icon": "none",
+            "row_content": "<p>Yes, industry-specific benchmarks for TRIR and DART Rate are available. Organizations can refer to industry associations, regulatory agencies, or safety organizations to access benchmarking data. <\/p><p>These benchmarks enable organizations to compare their safety performance with industry peers and identify areas for improvement.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_H9UhYa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "2. What are some strategies to reduce TRIR and DART Rate in the workplace?",
+            "icon": "none",
+            "row_content": "<p>Strategies to reduce TRIR and DART Rate include implementing comprehensive safety training programs, promoting hazard identification and reporting, ensuring effective safety protocols and controls, fostering a safety-oriented culture, conducting regular safety inspections, and providing support for injured employees' timely return to work.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_F9RcED": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "3. How often should TRIR and DART Rate be monitored and analyzed?",
+            "icon": "none",
+            "row_content": "<p>TRIR and DART Rate should be monitored and analyzed regularly to ensure ongoing safety improvement. The frequency may vary depending on the organization's size, industry, and historical safety performance. Monthly or quarterly monitoring is common, but more frequent analysis may be necessary in high-risk industries.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_gmU4KM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "4. Are there any legal or regulatory requirements associated with TRIR and DART Rate?",
+            "icon": "none",
+            "row_content": "<p>The legal or regulatory requirements associated with TRIR and DART Rate may vary by jurisdiction. Some countries or regions require organizations to report and maintain records of workplace injuries and illnesses. Regulatory agencies may use TRIR and DART Rate as indicators of compliance with safety regulations.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CKXiL3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "5. How can TRIR and DART Rate be used to identify trends and patterns in workplace safety?",
+            "icon": "none",
+            "row_content": "<p>TRIR and DART Rate analysis can help identify trends and patterns in workplace safety. By analyzing data over time, organizations can detect areas of improvement or areas with a higher frequency or severity of incidents. This information guides targeted safety interventions and facilitates a proactive approach to prevent future incidents.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_3Xt8N6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "6. Are there any alternative safety metrics that can complement TRIR and DART Rate?",
+            "icon": "none",
+            "row_content": "<p>Yes, there are alternative safety metrics that can complement TRIR and DART Rate. Examples include Lost Time Injury Frequency Rate (LTIFR), Severity Rate, First Aid Case Rate, and Near Miss Reporting Rate. These additional metrics provide different perspectives on safety performance and help organizations gain a more comprehensive understanding of their safety culture.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_3UyJjC",
+        "collapsible_row_H9UhYa",
+        "collapsible_row_F9RcED",
+        "collapsible_row_gmU4KM",
+        "collapsible_row_CKXiL3",
+        "collapsible_row_3Xt8N6"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "title": "FAQ's",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "93ffaf44-c9cb-4a91-894f-1bbcd150798b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16816324870364__93ffaf44-c9cb-4a91-894f-1bbcd150798b-1683727978ed672380-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>The material provided in this article is for general information purposes only.<\/em><em><strong> It is not intended to replace professional\/legal advice or substitute government regulations, industry standards, or other requirements specific to any business\/activity.<\/strong><\/em><em> <\/em><\/p><p><em>While we made sure to provide accurate and reliable information, we make no representation that the details or sources are up-to-date, complete or remain available. Readers should consult with an industrial safety expert, qualified professional, or attorney for any specific concerns and questions.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16816324870364__93ffaf44-c9cb-4a91-894f-1bbcd150798b-1683727978ed672380-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_egL9eP",
+    "1bd0ea01-db7d-4a9c-9a14-7bfea1dc3533",
+    "eef5b094-8c66-46f7-b3b0-da28c5464e90",
+    "1de3c42b-8101-43d8-8c9f-f632567eaa6d",
+    "collapsible_content_kpF6ra",
+    "93ffaf44-c9cb-4a91-894f-1bbcd150798b"
+  ]
+}

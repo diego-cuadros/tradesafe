@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "collection_tree_data": "",
+        "preload_background_image": false,
+        "enable_parallax_scrolling_effect": true,
+        "show_number_of_products": false,
+        "icon_size": "small",
+        "icon_border_shape": "square",
+        "collection_icon_color_scheme": "background-1",
+        "enable_transparent_header": false,
+        "text_color_transparent": "#ffffff"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 48,
+        "columns_desktop": 3,
+        "pagination_style": "numbers",
+        "preload_first_image": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "include_collection_in_url": true,
+        "enable_quick_add": true,
+        "enable_compare": true,
+        "enable_quick_view": true,
+        "show_color_swatches": true,
+        "color_swatches_style": "custom",
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "filter_include_group_name": true,
+        "enable_sorting": true,
+        "categories_filter": "dawn-collection-filter",
+        "categories_filter_type": "link",
+        "filter_collapse": "collapse",
+        "show_collection_description": true,
+        "description_position": "below",
+        "description_style": "body",
+        "description_alignment": "left",
+        "truncate_description": 0,
+        "read_more_button": "Read more",
+        "columns_tablet": "3",
+        "columns_mobile": "2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_YpmXzn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MrtiEe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Frequently Asked Questions<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MrtiEe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_Nwm7da": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_XUXNL7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How durable are TRADESAFE safety supplies?",
+            "icon": "none",
+            "row_content": "<p>All products, including absorbents, eyewash stations, lockout tagout devices, and supplies, as well as signs, are of the highest quality and designed to meet and exceed local, state, and federal compliance. Lockout tagout devices and supplies are both resistant to chemicals & moisture, suitable for usage in industrial settings, and are perfect for most safety lockout applications.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JgFQYH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are TRADESAFE products OSHA-compliant?",
+            "icon": "none",
+            "row_content": "<p>LOTO safety products are only effective when used and installed properly.  <\/p><p>Please ensure that you fully understand the installation practices and use our products as part of a full OSHA-compliant program. Having said that, yes, our lockout tagout devices and supplies are made with safety and OSHA standards in mind. <\/p><p>All products have gone through extensive quality control to guarantee they are durable, substantial, standardized, identifiable, and exclusive for safety.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FbRXJX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often should I replace my lockout tagout kits?",
+            "icon": "none",
+            "row_content": "<p>OSHA requires inspections on your procedure at least once every 12 months. Therefore, if LOTO kits and devices are no longer functional during the inspection, they should be replaced right away.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Cq6bNB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have the products in stock?",
+            "icon": "none",
+            "row_content": "<p>Our TRADESAFE website is live and reflects what is in stock at that moment. Otherwise, out-of-stock products will be marked as “Sold Out.”<br\/><\/p><p>Nonetheless, we constantly check and ensure that our collections are available for your purchase. <\/p><p>It is possible that quantities of some items may not yet be checked into our warehouse. If you aren’t seeing the product or quantity available then please email us at <a href=\"mailto:hello@trdsf.com\">hello@trdsf.com<\/a> and we will try our best to accommodate you.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CVrNwU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does TRADESAFE make custom products?",
+            "icon": "none",
+            "row_content": "<p>We are a proud retailer of industrial safety devices and supplies in the US. As of now, we do not include custom products as part of our services. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_W8z9Bp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I make some minor modifications to a LOTO product I purchased?",
+            "icon": "none",
+            "row_content": "<p>Every lockout tagout device that we offer is precision-engineered and designed to be OSHA-compliant when properly applied. <\/p><p>Any modifications made to any product or its intended use may risk its effectiveness and deviate from OSHA standards, and result in the product not functioning properly and causing a hazard. <\/p><p>It is highly advisable to use the product for its intended purpose and not alter it in any way.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cY6tze": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have a master key for the keyed different or keyed alike safety padlocks?",
+            "icon": "none",
+            "row_content": "<p>As of now, we only have keyed different, keyed alike, and keyed alike unlimited safety padlocks. We currently do not offer master keyed locks.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VQDNAz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I lost my padlock key. Can I get a duplicate key?",
+            "icon": "none",
+            "row_content": "<p>We have three padlock variations: keyed alike, keyed alike unlimited, and keyed different. Each padlock comes with either one key or two keys. Unfortunately, we do not keep extra keys for any of our padlocks. <\/p><p>Once lost, we do not have any means to duplicate it. However, if the key lost was for a keyed alike unlimited padlock, you can always order a new set of the same color and we guarantee that the key will fit the set of padlocks of your first order.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_M3W9r4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I ordered one pack of keyed alike padlocks before. Can I order again and have the same engraved numbers?",
+            "icon": "none",
+            "row_content": "<p>Our keyed alike padlocks come in a pack of 7 or 10. Every padlock and key from the same pack are identical. However, additional packs will be keyed differently from the first pack. If you need more than 7 or 10 keyed alike padlocks, we have our keyed alike unlimited padlocks.<\/p><p> Every additional pack of padlock is keyed exactly the same as the first pack, so you can have an unlimited number of keyed alike padlocks.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PwtYVx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have a video where I can follow how to properly install my LOTO device?",
+            "icon": "none",
+            "row_content": "<p>We try to include a video together with the images on every product listing. You can also visit our YouTube channel for our product videos. <\/p><p>However, it is recommended that workers undergo LOTO training under the supervision of a qualified expert before using lockout tagout devices, as well as performing lockout tagout procedures.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_XUXNL7",
+        "collapsible_row_JgFQYH",
+        "collapsible_row_FbRXJX",
+        "collapsible_row_Cq6bNB",
+        "collapsible_row_CVrNwU",
+        "collapsible_row_W8z9Bp",
+        "collapsible_row_cY6tze",
+        "collapsible_row_VQDNAz",
+        "collapsible_row_M3W9r4",
+        "collapsible_row_PwtYVx"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_tzCyGJ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_wViRmw": {
+          "type": "button",
+          "settings": {
+            "button_label": "More FAQ's",
+            "button_link": "shopify:\/\/pages\/faq",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_wViRmw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "rich_text_tNizLc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XzLkmG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>People Also Ask<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XzLkmG"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_C7WQKg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cqrqAq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's the difference between lockout and tagout?",
+            "icon": "none",
+            "row_content": "<p>Lockout is the isolation of energy from a machine, equipment, or process which physically locks the system in a safe mode. Meanwhile, tagout is a labeling process that is always used when the lockout is required.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WFk36H": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the 6 steps of lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>A proper lockout tagout procedure should include the following 6 steps:<\/p><ol><li><strong>Preparation<\/strong> – The authorized employee must have a checklist, inspect, and accurately identify particular energy hazards present in the machine or equipment. Similarly, the authorized employee must be able to regulate the energy.<\/li><li><strong>Shut Down Equipment<\/strong> – Shut down any operating machinery and equipment that will be repaired or maintained. Ensure that workers affected by the equipment's shutdown are aware of the situation.<\/li><li><strong>Isolate Energy Sources<\/strong> – Make sure all energy sources have been shut off before proceeding. You can also disconnect and block lines and plugs or shut off gas valves, water valves, or forklift gas valves.<\/li><li><strong>Perform Lockout Tagout<\/strong> – All energy isolating devices must be attached to machinery and equipment that is turned off or closed by the authorized personnel. Once completed, a tag out must be added to the lock out so that others other than the authorized employee are notified if they have concerns about why the equipment is secured.<\/li><li><strong>Double-checking for Stored Energy<\/strong> – Isolating or locking out energy sources does not always guarantee zero presence of hazardous energy. Even after performing the lockout tagout, it is critical to double-check any energies that reside or remain in the power supply system, often known as “residual” energies. This stage of the process may need bleeding out the liquid or blowing out the air.<\/li><li><strong>Verifying Isolation<\/strong> – Conducting a lockout tagout requires more than just application; it must also be verified for maximum security. Only when all machines have been shut down, disconnected from power sources, locked out all unexpected start-up components, examined for \"stored\" or \"residual\" energy, and ensured that all procedures have been done correctly, is it safe to work on.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xnjWJR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the main 3 components of lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>According to OSHA, training, written procedures, and inspections are the 3 basic elements in a 100% compliant and efficient lockout tagout program.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_erCBC3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When is lockout tagout required?",
+            "icon": "none",
+            "row_content": "<p>Lockout tagout procedures are required whenever there is a need to repair or service certain machines or equipment in an industrial facility. LOTO should also be done whenever an employee has to enter an area wherein, they will be exposed to hazardous energy, moving parts, and anything else that may cause injury.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qQHbMq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the LOTO kits suited for electrical lockout applications?",
+            "icon": "none",
+            "row_content": "<p>Electrical lockout is meant to secure circuit breakers, plugs, push buttons, and switches. The LOTO devices designed for this purpose are breaker locks, plug and socket lockouts, and emergency power button lockouts.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cqrqAq",
+        "collapsible_row_WFk36H",
+        "collapsible_row_xnjWJR",
+        "collapsible_row_erCBC3",
+        "collapsible_row_qQHbMq"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "rich_text_YpmXzn",
+    "collapsible_content_Nwm7da",
+    "rich_text_tzCyGJ",
+    "rich_text_tNizLc",
+    "collapsible_content_C7WQKg"
+  ]
+}

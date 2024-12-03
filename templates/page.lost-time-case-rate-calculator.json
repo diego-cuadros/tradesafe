@@ -1,0 +1,183 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "section_width": "grid",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_JrydgX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xXqWEK": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>OSHA Lost Time Incident Rate Calculator<\/strong><\/p>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xXqWEK"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "42ca4344-d2c8-410c-adeb-e3fd6b2b9e42": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16814774911196__42ca4344-d2c8-410c-adeb-e3fd6b2b9e42-168357568893e2d9d3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><strong>What is the OSHA Lost Time Incident Rate (LTIR) Calculator?<\/strong><\/h4><p>In today's business environment, tracking Lost Time Incident Rate (LTIR) is crucial for promoting workplace safety and minimizing business disruptions. <\/p><p>A Lost Time Incident Rate calculator is a standard <a href=\"https:\/\/www.osha.gov\/\" target=\"_blank\" title=\"Occupational Safety and Health Administration\">OSHA<\/a> metric that <strong>calculates the number of incidents that result in time away from work.<\/strong> It is a useful tool that can help organizations measure and monitor their LTIR.<\/p><p>One of the primary reasons for measuring LTIR is to identify and prevent Lost Time Incidents (LTI) in the workplace. <\/p><p>LTI refers to incidents that result in an employee's inability to work for a certain period of time, usually a shift or more, due to a work-related injury or <a href=\"https:\/\/trdsf.com\/blogs\/news\/the-top-7-occupational-diseases-in-industry-workers\" target=\"_blank\" title=\"The Top 7 Occupational Diseases in Industry Workers\">illness<\/a>. These incidents can be caused by a variety of factors, such as poor working conditions, inadequate safety training, or equipment malfunction. <\/p><p>Regardless of the cause, LTI can have a significant impact on an organization's productivity and profitability, as they can lead to absenteeism, reduced morale, and increased insurance costs. By measuring LTIR and identifying <strong>areas for improvement, organizations can take proactive measures to reduce LTI and enhance productivity.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16814774911196__42ca4344-d2c8-410c-adeb-e3fd6b2b9e42-168357568893e2d9d3-1"
+      ],
+      "custom_css": [
+        ".rich-text {text-align: left;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "25e0cf47-7a01-46cb-81d0-e9b51ebd69a7": {
+      "type": "lost-time-case-rate-calculator",
+      "settings": {}
+    },
+    "a9b5824c-651a-4cf3-9b65-3948d0c07485": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16814774911196__a9b5824c-651a-4cf3-9b65-3948d0c07485-168357568893e2d9d3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>How to Use the Lost Time Incident Rate Calculator<\/strong><\/h3><p>To get the most out of this tool, it's important to understand how to use it properly. Here are the steps on how to use an LTIR calculator effectively:<\/p><ol><li><strong>Gather the Required Information<\/strong>: To use an LTIR calculator, you will need to gather specific data. This data includes the number of employees in your organization, the total number of hours worked by those employees, and the number of lost time incidents that occurred during a specific period.<\/li><li><strong>Enter the Data into the Calculator<\/strong>: Once you have gathered the required data, you can enter it into the Lost Time Incident Rate calculator above. The tool will use this information to calculate your LTIR score.<\/li><li><strong>Review the Results<\/strong>: Once you have entered the data, the calculator will generate your LTIR score. Review the results carefully, and ensure that you have entered all the data accurately. If you notice any errors, correct them and re-calculate your LTIR score.<\/li><li><strong>Compare Your Results<\/strong>: To get the most out of your LTIR calculator, it's helpful to compare your results to industry benchmarks. This will help you identify areas where you may need to improve workplace safety and take proactive measures to reduce lost time incidents. Additionally, analyzing LTIR trends over time can help you identify patterns and take proactive measures to reduce LTI incidents in the future.<\/li><\/ol><h2>Tips for Accurate Data Entry<\/h2><p>When entering data into the LTIR calculator, accuracy is key. Be sure to double-check all figures to avoid errors, and ensure that the data you enter is as complete and detailed as possible. Additionally, it's important to use consistent units of measurement to ensure accurate calculations.<\/p><h2>Common Mistakes to Avoid<\/h2><p>Collecting inaccurate and incomplete data that can lead to inaccurate results is one of the most common mistakes that you should avoid while using the LTIR Calculator. <\/p><p>Aside from this, <strong>not comparing the LTIR score with industry standards is a common mistake<\/strong> which will lead to missed opportunities for improvement. <\/p><p>Another oversight to watch out for is <strong>relying solely on the LTIR score in measuring workplace safety instead of using multiple indicators <\/strong>to provide a comprehensive view of safety performance.<\/p><h2>Benefits of Using an LTIR Calculator<\/h2><p>Using a Lost Time Incident Rate calculator can <strong>provide a standardized way to measure lost time incidents and compare to industry benchmarks. <\/strong><\/p><p>It can also help identify areas for improvement and take proactive measures to enhance workplace safety. <\/p><p>This tool can also <strong>reduce costs associated with lost time incidents<\/strong>, such as workers' compensation claims and productivity loss. Lastly, the LTIR calculator can help promote a culture of safety in the workplace by encouraging employees to take an active role in promoting a safer work environment<\/p><h2>Factors Influencing LTIR<\/h2><p>LTIR can be influenced by a variety of external and internal factors. External factors include the industry type and associated hazards, economic conditions and its effect on worker behavior and safety measures, and regulatory environment and compliance requirements. <\/p><p>On the other hand, internal factors include safety culture and the management’s commitment to safety, employee training and awareness of workplace hazards, availability and effectiveness of safety equipment and procedures, and the demographics of the workforce.<\/p><p>After understanding both external and internal factors affecting the LTIR score, <strong>employers should consider investing on these strategies to reduce LTIR<\/strong>:<\/p><ul><li>Implement a comprehensive safety program that includes regular training and hazard assessments<\/li><li>Encourage employee participation in safety initiatives and reporting of incidents<\/li><li>Conduct regular safety audits and addressing identified deficiencies<\/li><li>Invest in effective <a href=\"https:\/\/trdsf.com\/collections\/lockout-tagout\" target=\"_blank\" title=\"Lockout Tagout Devices\">safety devices<\/a> and equipment<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16814774911196__a9b5824c-651a-4cf3-9b65-3948d0c07485-168357568893e2d9d3-1"
+      ],
+      "custom_css": [
+        ".rich-text {text-align: left;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "medium",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "collapsible_content_rb86iH": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_tPdyGm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "1. What is the difference between LTIR and TRIR?",
+            "icon": "none",
+            "row_content": "<p>The LTIR measures the number of lost time incidents per 100 employees working a certain number of hours, while the TRIR measures the number of incidents resulting in lost time or restricted duty per 200,000 hours worked.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XcFzFw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "2. What are the benefits of using Lost Time Incident Rate calculator?",
+            "icon": "none",
+            "row_content": "<p>The LTIR calculator helps organizations identify potential hazards and make informed decisions on how to reduce workplace incidents. It also provides a benchmark for tracking progress and improving safety performance.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KRxnej": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "3. How often should LTIR be calculated?",
+            "icon": "none",
+            "row_content": "<p>It is recommended to calculate LTIR on a monthly or quarterly basis to track trends and identify areas for improvement.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_tPdyGm",
+        "collapsible_row_XcFzFw",
+        "collapsible_row_KRxnej"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "title": "FAQ's",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f42c2c47-25ff-4b10-8cbc-008c523b6dad": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16814774911196__f42c2c47-25ff-4b10-8cbc-008c523b6dad-16837271449a35c992-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>The material provided in this article is for general information purposes only.<\/em><em><strong> It is not intended to replace professional\/legal advice or substitute government regulations, industry standards, or other requirements specific to any business\/activity. <\/strong><\/em><\/p><p><em>While we made sure to provide accurate and reliable information, we make no representation that the details or sources are up-to-date, complete or remain available. Readers should consult with an industrial safety expert, qualified professional, or attorney for any specific concerns and questions.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16814774911196__f42c2c47-25ff-4b10-8cbc-008c523b6dad-16837271449a35c992-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_JrydgX",
+    "42ca4344-d2c8-410c-adeb-e3fd6b2b9e42",
+    "25e0cf47-7a01-46cb-81d0-e9b51ebd69a7",
+    "a9b5824c-651a-4cf3-9b65-3948d0c07485",
+    "collapsible_content_rb86iH",
+    "f42c2c47-25ff-4b10-8cbc-008c523b6dad"
+  ]
+}

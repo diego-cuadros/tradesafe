@@ -1,0 +1,326 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "collection_tree_data": "",
+        "preload_background_image": false,
+        "enable_parallax_scrolling_effect": true,
+        "show_number_of_products": false,
+        "icon_size": "small",
+        "icon_border_shape": "square",
+        "collection_icon_color_scheme": "background-1",
+        "enable_transparent_header": false,
+        "text_color_transparent": "#ffffff"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 48,
+        "columns_desktop": 3,
+        "pagination_style": "numbers",
+        "preload_first_image": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "include_collection_in_url": true,
+        "enable_quick_add": true,
+        "enable_compare": true,
+        "enable_quick_view": true,
+        "show_color_swatches": true,
+        "color_swatches_style": "custom",
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "filter_include_group_name": true,
+        "enable_sorting": true,
+        "categories_filter": "dawn-collection-filter",
+        "categories_filter_type": "link",
+        "filter_collapse": "collapse",
+        "show_collection_description": true,
+        "description_position": "below",
+        "description_style": "body",
+        "description_alignment": "left",
+        "truncate_description": 0,
+        "read_more_button": "Read more",
+        "columns_tablet": "3",
+        "columns_mobile": "2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_YpmXzn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MrtiEe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Frequently Asked Questions<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MrtiEe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_Nwm7da": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_XUXNL7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are workplace safety signs?",
+            "icon": "none",
+            "row_content": "<p>Workplace safety signs are a visible way to remind employees of the risks in their environment. These signs are created to make employees aware of potential hazards, dangers, and warning.<\/p><p>We can see these signs at construction sites, factories, kitchens, classrooms, offices, recreational areas and many other places where we work or spend time.<\/p><p>They are used to communicate messages to workers, visitors, and passersby about what is allowed in the workplace.<\/p><p>Moreover, they also provide vital information about any potential hazards or safety concerns in the vicinity.<\/p><p>Safety signs are significant because they are used to protect both workers and visitors from various dangers. These signs can be found at different places in a workplace, depending on what types of hazards may be present.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JgFQYH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why are safety signs important in the workplace?",
+            "icon": "none",
+            "row_content": "<p>Safety signs are important for both the workers and the visitors to the workplace. They are designed to help people know what safety precautions to take, what they should avoid doing, and what they should do if an emergency arises.<\/p><p>Each type of sign has a distinct meaning and purpose. They serve different purposes for different situations. A lot of times these signs can be seen with an arrow pointing to something that is unsafe or that needs attention.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FbRXJX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to properly hang signs in the workplace?",
+            "icon": "none",
+            "row_content": "<p>This depends on the type of safety signs you will be using in your workplace. For instance, TRADESAFE aluminum safety signs have 1\/5\" drilling holes in each corner which you could screw to the wall (screws not included). Make sure to place your safety signs on a strategic part of the wall, where they can be seen up close, at a distance, and from different angles.<\/p><p>As for TRADESAFE floor sticker safety signs, all you have to do is to peel off the back to reveal a strong acrylic adhesive that will stick very securely on most surfaces as long as they have been cleaned and dusted off. Ideally, floor signs should be placed on the floor but you can choose to stick them on walls as long as these signs serve their purpose.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Cq6bNB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the OSHA signs and symbols in the workplace?",
+            "icon": "none",
+            "row_content": "<p>OSHA has the 29 CFR 1910.145 guideline for tags and signs for hazard identification as well as design requirements and when safety signages should be used.However, it is the ANSI Z535 that elaborates on the design elements for compliance. According to both ANSI and OSHA, there are 3 primary safety sign classifications based on severity:<\/p><ul><li><strong>Danger signs<\/strong> indicate the presence of the most serious hazard with a high possibility of seriously injuring or even killing someone who fails to avoid or take special precautions. A white “DANGER” word with a safety alert symbol is printed on a header with a red background.<\/li><li><strong>Warning signs<\/strong> are used for informing people of a hazard that might seriously injure or even kill someone, but the overall risk of a warning sign hazard is not as severe as that of danger sign hazards. A black “WARNING” with a safety alert symbol is printed on a header with an orange background.<\/li><li><strong>Caution signs <\/strong>are hazards that might result in moderate or minor injuries if not avoided. A black “CAUTION” with a safety alert symbol is printed on a yellow background header.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CVrNwU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What signs are required in the workplace?",
+            "icon": "none",
+            "row_content": "<p>As an industry practice, there should be safety labels and signs anywhere in the facility where hazards may be present. You can take advantage of other types of signs that, although they do not feature any particular hazard, remind employees to stay safe and practice safety. These are:<\/p><ul><li><strong>Notice signs<\/strong> - display info about rules, instructions, directions, and more.<\/li><li><strong>Admittance signs<\/strong> - prohibit unauthorized personnel from entering a restricted area.<\/li><li><strong>General safety signs<\/strong> - exhibit broad messages related to safety, medical equipment, general safety measures, and more.<\/li><li><strong>Non-hazard signs<\/strong> - simply display general safety facility information and have nothing to do with communicating hazards. One example is a restroom sign.<\/li><li><strong>Fire safety signs <\/strong>- mark where to find fire exit paths and firefighting equipment.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_W8z9Bp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do TRADESAFE workplace safety signs come with LED?",
+            "icon": "none",
+            "row_content": "<p>No. Safety signs should be reliable <strong>at all times<\/strong>. As such, constructing them to be dependent on electricity or batteries defeats their purpose. What if the battery energy runs out or electricity gets cut off? Unless a workplace has enough budget for power generators, safety signs in the aforementioned situations would become useless.<\/p><p>As such, TRADESAFE designed workplace safety signs to be highly reflective so that they remain visible even in low-light conditions. This is made possible by the glass bead reflective film coating.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cY6tze": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where to buy safety signs?",
+            "icon": "none",
+            "row_content": "<p>Buy TRADESAFE safety signages via<a href=\"https:\/\/trdsf.com\/pages\/workplace-signs\">https:\/\/trdsf.com\/pages\/workplace-signs<\/a>. You can also browse through our<a href=\"https:\/\/www.amazon.com\/stores\/page\/A18EA820-AF18-4521-9BB2-7575680D315A\">Amazon online store<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VQDNAz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do red safety signs mean?",
+            "icon": "none",
+            "row_content": "<p>Red safety signages are used for danger signs and labels. They prohibit people from accessing a highly dangerous area. Red is also the color used for fire safety and exit signs which aim to direct people towards the right and safe path people can go to in cases of emergency.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_M3W9r4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do yellow and black safety signs mean?",
+            "icon": "none",
+            "row_content": "<p>Yellow is the color used for caution signs telling people about the presence of a hazard that may not cause severe injuries, but would still help if people are made aware of such hazards. Yellow is also used for labeling products as flammable.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_XUXNL7",
+        "collapsible_row_JgFQYH",
+        "collapsible_row_FbRXJX",
+        "collapsible_row_Cq6bNB",
+        "collapsible_row_CVrNwU",
+        "collapsible_row_W8z9Bp",
+        "collapsible_row_cY6tze",
+        "collapsible_row_VQDNAz",
+        "collapsible_row_M3W9r4"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_tzCyGJ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_wViRmw": {
+          "type": "button",
+          "settings": {
+            "button_label": "More FAQ's",
+            "button_link": "shopify:\/\/pages\/faq",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_wViRmw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "rich_text_tNizLc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XzLkmG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>People Also Ask<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XzLkmG"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_C7WQKg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cqrqAq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the 5 main purposes of safety signs?",
+            "icon": "none",
+            "row_content": "<p>Safety signs, depending on their types, can have distinct purposes. Nevertheless, safety signs have these five main general purposes.<\/p><ul><li>Safety signs are used to comply with safety regulations and standards. For example, workplaces use signs in order to comply with OSHA regulations and avoid hefty penalties.<\/li><li>Workplace safety signs serve as identifiers of hazards to keep individuals safe<\/li><li>Signs help create a secure and safe environment for employees, visitors, clients, and others who enter the workplace<\/li><li>Directional signs help individuals find their way around the workplace, especially when hazards are in the way<\/li><li>Health and safety signs provide critical information and warnings to ensure overall safety in the place.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WFk36H": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the advantage of safety signs?",
+            "icon": "none",
+            "row_content": "<p>The main advantage of safety signs is that they prevent accidents, injuries, and fatalities from happening. Workplace safety signs ensure that individuals are aware of possible hazards and dangers in the environment, thus, effectively avoiding potential injuries and damages from happening.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xnjWJR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are ANSI Signs?",
+            "icon": "none",
+            "row_content": "<p>ANSI signs are designed based on the American National Standards Institute (ANSI) standards that are internationally recognized. The ANSI sign formats have three critical elements: header, images or symbols, and safety message. These elements are nationally and internationally recognized to better convey safety information in the workplace.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_erCBC3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the ANSI Z535 standard?",
+            "icon": "none",
+            "row_content": "<p>The ANSI Z535 standard series is a collection of standards that helps evaluate, design, and guide the use of signs, symbols, and colors that are meant to prevent injuries by visually warning individuals about hazards and dangers in the workplace.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qQHbMq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What colors for safety signs are ANSI approved?",
+            "icon": "none",
+            "row_content": "<p>There are six colors for safety signs that are approved by the ANSI. These colors are identified in the ANSI Safety Color Chart.<\/p><ul><li>Red: Danger signs, fire protection equipment, flammable liquids<\/li><li>Orange: Warning signs, indicates energized machines\/equipment<\/li><li>Yellow: Caution signs, alerts physical hazards<\/li><li>Green: First aid, safety information<\/li><li>Blue: Facility regulations, property standards, other information not related directly to safety<\/li><li>Purple: Safety managers may assign this color to anything they deem important for the facility<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cqrqAq",
+        "collapsible_row_WFk36H",
+        "collapsible_row_xnjWJR",
+        "collapsible_row_erCBC3",
+        "collapsible_row_qQHbMq"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "rich_text_YpmXzn",
+    "collapsible_content_Nwm7da",
+    "rich_text_tzCyGJ",
+    "rich_text_tNizLc",
+    "collapsible_content_C7WQKg"
+  ]
+}

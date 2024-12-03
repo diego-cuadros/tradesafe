@@ -1,0 +1,124 @@
+{{ 'component-facets.css' | asset_url | stylesheet_tag: preload: true }}
+
+{{ 'component-facets-horizontal.css' | asset_url | stylesheet_tag: media: 'screen and (min-width: 990px)' }}  
+
+<script src="{{ 'facets.js' | asset_url }}" defer="defer"></script>
+
+<menu-drawer class="mobile-facets__wrapper flex large-up-hide" data-breakpoint="tablet" data-id="filter-drawer">
+    <details class="mobile-facets__disclosure flex disclosure-has-popup por">
+      <summary class="mobile-facets__open-wrapper">
+        <span class="mobile-facets__open w100 flex align-center facets__summary--box">
+          {%- render 'icon-filter' -%}
+          <span class="mobile-facets__open-label large-up-hide uppercase h4">
+            Search & Categorize
+          </span>
+            {%- render 'icon-sort', add_classes: 'large-up-hide icon-sort--drawer' -%}
+        </span>
+        <span tabindex="0" class="mobile-facets__close mobile-facets__close--no-js">{%- render 'icon-close' -%}</span>
+      </summary>
+      <facet-filters-form>
+        <form id="FacetFiltersFormMobile" class="mobile-facets">
+          <div class="mobile-facets__inner gradient flex h100">
+            <div class="mobile-facets__main has-submenu gradient facets__item-list" id="FacetFiltersFormMobileWrapper">
+
+
+              <div class="blog-search-wrapper">
+                <script src="{{ 'blog-search.js' | asset_url }}" defer="defer"></script>
+                <predictive-search>
+                  <form class="blog-search-form search search--header flex w100 por" action="{{ routes.search_url }}" method="get" role="search">
+                    <input class="search__input search__input--header w100 color-foreground"
+                      id="Search-In-Article"
+                      type="search"
+                      name="q"
+                      value=""
+                      placeholder="{{ 'general.search.search' | t }}"
+                      {%- if settings.predictive_search_enabled -%}
+                        role="combobox"
+                        aria-expanded="false"
+                        aria-haspopup="listbox"
+                        aria-autocomplete="list"
+                        autocorrect="off"
+                        autocomplete="off"
+                        autocapitalize="off"
+                        spellcheck="false"
+                      {%- endif -%}
+                    >
+                    <label class="field__label visually-hidden" for="Search-In-Article">{{ 'general.search.search' | t }}</label>
+                    <input type="hidden" name="options[prefix]" value="last">
+                    <input type="hidden" name="type" value="article">
+
+                    <button class="search__button search__button--header field__button light flex justify-center align-center overflow-hidden" aria-label="{{ 'general.search.search' | t }}">
+                      <svg class="icon icon-search" aria-hidden="true" focusable="false" role="presentation" width="24" height="24">
+                        <use href="#icon-search">
+                      </svg>
+                    </button>
+                  </form>
+                </predictive-search>
+              </div>
+               <div class="blog-tags-wrapper">
+                <h2>Category</h2>
+                <div class="blog-tags">
+                  <ul>
+                    <li><a href="{{ shop.url | append: '/blogs/news/#blog-grid'}}">Blog</a></li>
+                    <li><a href="{{ shop.url | append: '/blogs/news/#blog-grid'}}">Articles</a></li>
+                    <li><a href="{{ shop.url | append: '/blogs/news/tagged/infographics/#blog-grid'}}">Infographics</a></li>
+                    <li><a href="{{ shop.url | append: '/pages/faq'}}">FAQ</a></li>
+                    <li><a href="{{ shop.url | append: '/pages/tools'}}">Tools</a></li>
+                  </ul>
+                </div>  
+              </div>
+              
+              <div class="blog-tags-wrapper">
+                <h2>Topics</h2>
+                <div class="blog-tags">
+                  <ul>
+                    {% assign blog_tags = "Absorbents, Environment & Energy, Expert Tips & Guidelines, Eyewash Stations, Fire Safety, Health & Wellness, Industry Insights, Industry News, Infographics, Lockout Tagout, Product Reviews, Protective Gears & Equipment, Safety Standards & Regulations, Safety Training, Tools & Equipment, Workplace Safety, Workplace Signs" | split: ", " %}
+                    {%- for tag in blog_tags -%}
+                      {%- if tag != "Herbert Post" and  tag != "Jennifer Busick" and  tag != "Joel Arun" and  tag != "Rick Kaletsky" -%}
+                      {%- assign tag_handle = tag | handle  -%}
+                    <li>
+                      <a href="{{ blog.url }}/tagged/{{ tag | handle }}/#blog-grid"{%- if canonical_url contains tag_handle -%} class="current"{%- endif -%}>{{ tag }}</a>
+                    </li>
+                      {%- endif -%}
+                    {%- endfor -%}
+                  </ul>
+                </div>  
+              </div>
+
+              <div class="blog-tags-wrapper">
+                <h2>Author</h2>
+                <div class="blog-tags">
+                  <ul>
+                    <li><a href="/blogs/news/tagged/herbert-post/#blog-grid"{%- if canonical_url contains "herbert-post" -%} class="current"{%- endif -%}>Herbert Post</a></li>
+                    <li><a href="/blogs/news/tagged/jennifer-busick/#blog-grid"{%- if canonical_url contains "jennifer-busick" -%} class="current"{%- endif -%}>Jennifer Busick</a></li>
+                    <li><a href="/blogs/news/tagged/joel-arun/#blog-grid"{%- if canonical_url contains "joel-arun" -%} class="current"{%- endif -%}>Joel Arun</a></li>
+                    <li><a href="/blogs/news/tagged/rick-kaletsky/#blog-grid"{%- if canonical_url contains "rick-kaletsky" -%} class="current"{%- endif -%}>Rick Kaletsky</a></li>
+                  </ul>
+                </div>  
+              </div>
+ 
+              <div class="facets__item-filter mobile-facets__footer flex flex-wrap">
+
+
+                <facet-remove class="mobile-facets__clear-wrapper flex-grow-1">
+                  <a href="javascript:;" class="mobile-facets__clear button button--primary w100" onclick="this.closest('.mobile-facets__wrapper').querySelector('summary').click()">
+                  <span>{{ 'products.facets.apply' | t }}</span></a>
+                </facet-remove>
+
+              </div>
+
+            </div>
+
+            {% if results.current_vendor or results.current_type %}
+              <input type="hidden" name="q" value="{{ results.current_vendor }}{{ results.current_type }}">
+            {% endif %}
+
+            {%- if results.terms -%}
+              <input type="hidden" name="q" value="{{ results.terms | escape }}">
+              <input name="options[prefix]" type="hidden" value="last">
+            {%- endif -%}
+          </div>
+        </form>
+      </facet-filters-form>
+    </details>
+  </menu-drawer>

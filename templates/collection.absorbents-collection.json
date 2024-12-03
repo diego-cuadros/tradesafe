@@ -1,0 +1,319 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "collection_tree_data": "",
+        "preload_background_image": false,
+        "enable_parallax_scrolling_effect": true,
+        "show_number_of_products": false,
+        "icon_size": "small",
+        "icon_border_shape": "square",
+        "collection_icon_color_scheme": "background-1",
+        "enable_transparent_header": false,
+        "text_color_transparent": "#ffffff"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 48,
+        "columns_desktop": 3,
+        "pagination_style": "numbers",
+        "preload_first_image": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "include_collection_in_url": true,
+        "enable_quick_add": true,
+        "enable_compare": true,
+        "enable_quick_view": true,
+        "show_color_swatches": true,
+        "color_swatches_style": "custom",
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "filter_include_group_name": true,
+        "enable_sorting": true,
+        "categories_filter": "dawn-collection-filter",
+        "categories_filter_type": "link",
+        "filter_collapse": "collapse",
+        "show_collection_description": true,
+        "description_position": "below",
+        "description_style": "body",
+        "description_alignment": "left",
+        "truncate_description": 0,
+        "read_more_button": "Read more",
+        "columns_tablet": "3",
+        "columns_mobile": "2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_YpmXzn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MrtiEe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Frequently Asked Questions<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MrtiEe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_Nwm7da": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_XUXNL7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are spill absorbents?",
+            "icon": "none",
+            "row_content": "<p>Spill absorbents are materials that are used to clean up spills, prevent spills from spreading, and reduce the negative impacts of the spill.<\/p><p>These absorbents are materials that can come in different forms, such as pads or socks. They’re an important part of an industrial facility, especially one that stores large quantities of a variety of liquids. In case of an accidental spill, a spill kit with high-quality absorbents will help employees keep the spill contained.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JgFQYH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do absorbents work?",
+            "icon": "none",
+            "row_content": "<p>Spill absorbents are engineered to soak up liquid spills. The absorbents then clump up the spilled liquid and hold it until it can be easily disposed of. This can make cleanups more efficient.<\/p><p>You can also use absorbents to keep the spill contained in one area and prevent it from leaking to drainage systems.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FbRXJX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are some examples of absorbents?",
+            "icon": "none",
+            "row_content": "<p>You can find everyday examples of absorbents from bathroom tissues and mops to towels and more. They are designed to absorb liquids that have been accidentally spilled. These absorbents are practical options for liquid spills that are not generally considered as dangerous.<\/p><p>Hospitals, auto repair shops, manufacturing plants, and workplaces that use hazardous liquids use specialized absorbents meant for cleaning up a wide range of liquids, like fuel, chemicals, and more. Absorbents used for these industries include socks, pillows, and oil only.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Cq6bNB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What types of liquids can TRADESAFE absorbents absorb?",
+            "icon": "none",
+            "row_content": "<p>TRADESAFE offers a wide range of absorbent supplies that can work with a variety of liquid spills. For instance, TRADESAFE universal absorbents are meant to absorb all kinds of fluids including hydrocarbons, water-based, and oil-based liquids. Oil-only absorbents are only limited to absorbing oil, fuel, and the like, and they are ideal for cleaning an oil spill on water because they will not soak water up, only oil.<\/p><p>There are other specialized absorbents usually packed in spill kits. It is best to use absorbents in specialized kits since they contain not only the most appropriate absorbent for a particular spill, but also other PPE that must be worn by the cleaner to protect himself\/herself from the hazardous liquid. For instance:<\/p><ul><li><strong>Biohazard spill kits <\/strong>have absorbents for cleaning up hazardous body fluids like blood, feces, vomit, and more. <\/li><li><strong>Haz-mat spill kits<\/strong> should be used for cleaning up spilled corrosive solvents and acids.<\/li><li><strong>Laboratory spill kits <\/strong>contain nitrile gloves, haz-mat pads, and more to clean up spills that can cause respiratory damage and burns.<\/li><li><strong>Mercury spill kits <\/strong>have absorbents appropriate for cleaning up mercury spills.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CVrNwU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "My workplace has many hazardous liquids. Do you offer haz-mat absorbents?",
+            "icon": "none",
+            "row_content": "<p>Yes. Hazardous fluids can be absorbed by TRADESAFE Universal Absorbents or Oil-Only Absorbents, depending on the kind of liquid involved in the spill. Aside from absorbents, TRADESAFE spill kits come with chemical gloves, a pair of glasses, a storage bag, and haz-mat bags. Please make sure to use face shields, respirators, footwear, and other appropriate PPE when cleaning up hazardous spills. Immediately dispose of the absorbents that you used for cleaning up hazardous liquids.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_W8z9Bp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are TRADESAFE absorbents lint free?",
+            "icon": "none",
+            "row_content": "<p>Yes. Our absorbents’ high-quality build means they will not leave any lint or fiber residue after use.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cY6tze": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What if I open a pack of TRADESAFE absorbents to get a few supplies only? What will happen to the rest that I have not used yet?",
+            "icon": "none",
+            "row_content": "<p>Since our absorbents do not have a shelf life, nothing happens if not all absorbent supplies that’s packed in a spill kit are used at once. As long as you store these absorbents in a clean, dry place, they will remain at their maximum efficiency once you use them.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VQDNAz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why are absorbents in different colors?",
+            "icon": "none",
+            "row_content": "<p>In general, there are only two kinds of absorbents: universal and oil only. Color-coded absorbents are usually found in absorbent kits, as designating absorbents with a specific color can help people be aware of which kits to use for a particular hazard. There is no legislation or standard that specifies which color should be used for an absorbent of a particular hazard, but in general, most absorbent brands use the following color coding:<\/p><ul><li>Gray and Blue - universal<\/li><li>White - Oil only<\/li><li>Pink - Chemicals or haz-mat<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_XUXNL7",
+        "collapsible_row_JgFQYH",
+        "collapsible_row_FbRXJX",
+        "collapsible_row_Cq6bNB",
+        "collapsible_row_CVrNwU",
+        "collapsible_row_W8z9Bp",
+        "collapsible_row_cY6tze",
+        "collapsible_row_VQDNAz"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_tzCyGJ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_wViRmw": {
+          "type": "button",
+          "settings": {
+            "button_label": "More FAQ's",
+            "button_link": "shopify:\/\/pages\/faq",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_wViRmw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "rich_text_tNizLc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XzLkmG": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p><strong>People Also Ask<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XzLkmG"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_C7WQKg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cqrqAq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's the difference between lockout and tagout?",
+            "icon": "none",
+            "row_content": "<p>Lockout is the isolation of energy from a machine, equipment, or process which physically locks the system in a safe mode. Meanwhile, tagout is a labeling process that is always used when the lockout is required.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WFk36H": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the 6 steps of lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>A proper lockout tagout procedure should include the following 6 steps:<\/p><ol><li><strong>Preparation<\/strong> – The authorized employee must have a checklist, inspect, and accurately identify particular energy hazards present in the machine or equipment. Similarly, the authorized employee must be able to regulate the energy.<\/li><li><strong>Shut Down Equipment<\/strong> – Shut down any operating machinery and equipment that will be repaired or maintained. Ensure that workers affected by the equipment's shutdown are aware of the situation.<\/li><li><strong>Isolate Energy Sources<\/strong> – Make sure all energy sources have been shut off before proceeding. You can also disconnect and block lines and plugs or shut off gas valves, water valves, or forklift gas valves.<\/li><li><strong>Perform Lockout Tagout<\/strong> – All energy isolating devices must be attached to machinery and equipment that is turned off or closed by the authorized personnel. Once completed, a tag out must be added to the lock out so that others other than the authorized employee are notified if they have concerns about why the equipment is secured.<\/li><li><strong>Double-checking for Stored Energy<\/strong> – Isolating or locking out energy sources does not always guarantee zero presence of hazardous energy. Even after performing the lockout tagout, it is critical to double-check any energies that reside or remain in the power supply system, often known as “residual” energies. This stage of the process may need bleeding out the liquid or blowing out the air.<\/li><li><strong>Verifying Isolation<\/strong> – Conducting a lockout tagout requires more than just application; it must also be verified for maximum security. Only when all machines have been shut down, disconnected from power sources, locked out all unexpected start-up components, examined for \"stored\" or \"residual\" energy, and ensured that all procedures have been done correctly, is it safe to work on.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xnjWJR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the main 3 components of lockout tagout?",
+            "icon": "none",
+            "row_content": "<p>According to OSHA, training, written procedures, and inspections are the 3 basic elements in a 100% compliant and efficient lockout tagout program.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_erCBC3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When is lockout tagout required?",
+            "icon": "none",
+            "row_content": "<p>Lockout tagout procedures are required whenever there is a need to repair or service certain machines or equipment in an industrial facility. LOTO should also be done whenever an employee has to enter an area wherein, they will be exposed to hazardous energy, moving parts, and anything else that may cause injury.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qQHbMq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the LOTO kits suited for electrical lockout applications?",
+            "icon": "none",
+            "row_content": "<p>Electrical lockout is meant to secure circuit breakers, plugs, push buttons, and switches. The LOTO devices designed for this purpose are breaker locks, plug and socket lockouts, and emergency power button lockouts.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cqrqAq",
+        "collapsible_row_WFk36H",
+        "collapsible_row_xnjWJR",
+        "collapsible_row_erCBC3",
+        "collapsible_row_qQHbMq"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "hide_image_on_mobile": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "rich_text_YpmXzn",
+    "collapsible_content_Nwm7da",
+    "rich_text_tzCyGJ",
+    "rich_text_tNizLc",
+    "collapsible_content_C7WQKg"
+  ]
+}

@@ -1,0 +1,1025 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "f2736caf-f589-4e31-b174-a65d7ece43bc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19267002171693__f2736caf-f589-4e31-b174-a65d7ece43bc-168525056050516aff-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "KEEPING YOUR TRADE SAFE",
+            "size": "h0"
+          }
+        },
+        "template--19267002171693__f2736caf-f589-4e31-b174-a65d7ece43bc-168525056050516aff-1": {
+          "type": "text",
+          "settings": {
+            "text": "We ask simple questions and find sound solutions to your safety compliance needs.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--19267002171693__f2736caf-f589-4e31-b174-a65d7ece43bc-168525056050516aff-0",
+        "template--19267002171693__f2736caf-f589-4e31-b174-a65d7ece43bc-168525056050516aff-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/Banner-About_1600x_0f0904be-adf9-46b2-9c2b-de2eb5e67c24.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_height_mobile": "medium-mobile",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": true,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": true,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#000000",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#171717",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_D3JWzX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CtC6Tf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2><strong>Our Mission<\/strong><\/h2>",
+            "heading_size": "h1"
+          }
+        },
+        "text_xYEkjg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are determined to impress you every step of the way and Guarantee your satisfaction.  <\/p><p>Part of that process is by holding ourselves accountable for only the highest quality standards, constantly adapting and innovating, ask and truly listen to our customers experiences, feedback, and impressions of our products, and perhaps most importantly, <strong>always consider how we treat others and our environment.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CtC6Tf",
+        "text_xYEkjg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_bQyRfK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RTGCN7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2><strong>Our Vision<\/strong><\/h2>",
+            "heading_size": "h1"
+          }
+        },
+        "text_dx7rRY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Safety product suppliers have never seemed people centered.  Generally, safety supplies aren’t produced with the intention of making life better for the people using the products either.  <br\/><br\/>We exist to not only <strong>provide premium quality industrial safety products that meet or exceed government standards, but also to deliver innovative solutions<\/strong> that equally consider the experience of the user.  <\/p><p>We want you to think of us a your partner that you actually enjoy. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RTGCN7",
+        "text_dx7rRY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_MLWBzN": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_8J64qR": {
+          "type": "heading",
+          "settings": {
+            "heading": "MEET OUR AUTHORS",
+            "size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8J64qR"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/Banner-About-1_1600x_e2f91ed6-8609-4d13-b424-40a023e1d543.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "image_height_mobile": "small-mobile",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": false,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": true,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#000000",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#565656",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_Hzz7H3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wrUFpT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Meet Our Authors<\/strong><\/p>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wrUFpT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "full",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 92,
+        "padding_bottom": 92
+      }
+    },
+    "image_banner_iid6hV": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_tAgqyg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Herbert Post",
+            "size": "h2"
+          }
+        },
+        "text_ThbVb9": {
+          "type": "text",
+          "settings": {
+            "text": "Vp Safety and Health at Tradesafe",
+            "text_style": "body"
+          }
+        },
+        "buttons_fCF3iJ": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Connect With Herbert",
+            "button_link_1": "",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tAgqyg",
+        "text_ThbVb9",
+        "buttons_fCF3iJ"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/Heberts_banner_desktop.webp",
+        "image_mobile": "shopify:\/\/shop_images\/Herberts_banner_mobile.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_height_mobile": "adapt-mobile",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": true,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#000000",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#b62f31",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "text_icons_xNa3Y9": {
+      "type": "text-icons",
+      "blocks": {
+        "text_icon_qPcBe9": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "mail",
+            "title": "herb@trdsf.com",
+            "subheading": "",
+            "link": "mailto:herb@trdsf.com",
+            "open_link_in_new_tab": true
+          }
+        },
+        "text_icon_4YihTR": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/linkedin_2.png",
+            "title": "Connect On LinkedIn",
+            "subheading": "",
+            "link": "https:\/\/www.linkedin.com\/in\/herbert-post\/",
+            "open_link_in_new_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "text_icon_qPcBe9",
+        "text_icon_4YihTR"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "icon_width_desktop": 10,
+        "text_position": "bottom",
+        "enable_heading_in_box": false,
+        "columns_desktop": 2,
+        "columns_tablet": 2,
+        "auto_fit": false,
+        "column_alignment": "center",
+        "highlight_icon": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "border_width": 1,
+        "border_opacity": 0,
+        "border_spacing": 0,
+        "highlight_border": false,
+        "border_shape": "square",
+        "blur_background": false,
+        "columns_mobile": "2",
+        "icon_width_mobile": 20,
+        "border_spacing_mobile": 0,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_t4B9dT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_AedVLq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Born in the Philadelphia area and raised in Houston in a family who was predominately employed in heavy manufacturing. <\/p><p>Herb took a liking to factory processes and later safety compliance where he has spent the last 13 years facilitating best practices and teaching updated regulations. <\/p><p>He is married with two children and a St Bernard named Jose. Herb is a self-described compliance geek. When he isn’t studying safety reports and regulatory interpretations he enjoys racquetball and watching his favorite football team, the Dallas Cowboys.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_AedVLq"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_h9P6AM": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_aVU87R": {
+          "type": "heading",
+          "settings": {
+            "heading": "Steven Stogner",
+            "size": "h2"
+          }
+        },
+        "text_zmd4tM": {
+          "type": "text",
+          "settings": {
+            "text": "Tradesafe",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aVU87R",
+        "text_zmd4tM"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/Teven_profile_banner.webp",
+        "image_mobile": "shopify:\/\/shop_images\/steven_profile_banner_mobile.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_height_mobile": "adapt-mobile",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": true,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#000000",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#b62f31",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "text_icons_CNJQXb": {
+      "type": "text-icons",
+      "blocks": {
+        "text_icon_wY9h8p": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "mail",
+            "title": "steven@trdsf.com",
+            "subheading": "",
+            "link": "mailto:steven@trdsf.com",
+            "open_link_in_new_tab": true
+          }
+        },
+        "text_icon_xdem3Q": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/linkedin_2.png",
+            "title": "Connect On LinkedIn",
+            "subheading": "",
+            "link": "https:\/\/www.linkedin.com\/in\/steven-stogner-csp-66a08b28a\/",
+            "open_link_in_new_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "text_icon_wY9h8p",
+        "text_icon_xdem3Q"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "icon_width_desktop": 10,
+        "text_position": "bottom",
+        "enable_heading_in_box": false,
+        "columns_desktop": 2,
+        "columns_tablet": 2,
+        "auto_fit": false,
+        "column_alignment": "center",
+        "highlight_icon": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "border_width": 1,
+        "border_opacity": 0,
+        "border_spacing": 0,
+        "highlight_border": false,
+        "border_shape": "square",
+        "blur_background": false,
+        "columns_mobile": "2",
+        "icon_width_mobile": 20,
+        "border_spacing_mobile": 0,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_bi33Qf": {
+      "type": "rich-text",
+      "blocks": {
+        "text_iFDybE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Steven Stogner is a seasoned safety professional with experience serving various industries including fabrication and manufacturing, heavy industrial and civil construction, petro-chemical, oil refining, petroleum pipeline and environmental fields for over 14 years. <\/p><p>Steven’s experience includes staff, consultative, and contract roles in the private, government and public industry sectors.<br\/>Steven’s expertise lies in incident investigation and root cause analysis, 5-Why (working knowledge of Tap Root & Apollo), risk assessment and mitigation, Worker’s Compensation, and subcontractor management. <\/p><p>He is a CSP (Certified Safety Professional) from the Board of Certified Safety Professionals.<br\/>Steven earned a Bachelor of Science in Industrial Technology from Southeastern Louisiana University.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iFDybE"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_V8aeD6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_aAg9re": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rick Kaletsky",
+            "size": "h2"
+          }
+        },
+        "text_V9DrQV": {
+          "type": "text",
+          "settings": {
+            "text": "Safety Consultant",
+            "text_style": "body"
+          }
+        },
+        "buttons_7eRQJC": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Amazon Author",
+            "button_link_1": "https:\/\/www.amazon.com\/stores\/Rick-Kaletsky\/author\/B001H6WKFY?qid=1582325507&ref=sr_ntt_srch_lnk_fkmr1_1&sr=8-1-fkmr1&isDramIntegrated=true&shoppingPortalEnabled=true",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": false,
+            "button_label_2": "Book: OSHA Inspector",
+            "button_link_2": "https:\/\/www.nsc.org\/shop\/product-details?ProductName=osha-inspections-2edhard-cover",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAg9re",
+        "text_V9DrQV",
+        "buttons_7eRQJC"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/Rick_profile_banner_2.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/Ricks_banner_mobile_version.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_height_mobile": "adapt-mobile",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": true,
+        "color_text": "#fefefe",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#b62f31",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#b62f31",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#b62f31",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "text_icons_gtdyPk": {
+      "type": "text-icons",
+      "blocks": {
+        "text_icon_JUgnqp": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "none",
+            "title": "",
+            "subheading": "",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_tVnT7r": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/linkedin_2.png",
+            "title": "Connect On LinkedIn",
+            "subheading": "",
+            "link": "https:\/\/www.linkedin.com\/in\/rick-kaletsky-59821723\/",
+            "open_link_in_new_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "text_icon_JUgnqp",
+        "text_icon_tVnT7r"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h2",
+        "icon_width_desktop": 10,
+        "text_position": "bottom",
+        "enable_heading_in_box": false,
+        "columns_desktop": 2,
+        "columns_tablet": 2,
+        "auto_fit": false,
+        "column_alignment": "center",
+        "highlight_icon": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "border_width": 1,
+        "border_opacity": 0,
+        "border_spacing": 0,
+        "highlight_border": false,
+        "border_shape": "square",
+        "blur_background": false,
+        "columns_mobile": "1",
+        "icon_width_mobile": 10,
+        "border_spacing_mobile": 0,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_9cMHyN": {
+      "type": "rich-text",
+      "blocks": {
+        "text_fC4nii": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Richard Kaletsky has been a Safety Consultant since 1992 and specializes in hazard recognition and abatement, site inspection, accident investigation, and citation resolution.  He is also a renown teacher instructor and expert witness for people, companies, and attorneys all across the country.<\/p><p>After devoting 20 years with USDOL\/OSHA and frequently serving as Acting Area Director, he gained a wealth of hands-on experience which led to numerous private sector accolades and educational institutions seeking his knowledge.  <\/p><p>Some of which he pursued such as teaching occupational safety and health at the undergraduate level at the University of New Haven, Mitchell College, and Housatonic Community College, and at the graduate level at the University of New Haven.  He was also a faculty member of the National Business Institute, the Institute of Business Law, and the Council on Education in Management. <\/p><p>Rick has more than 400 articles, columns, and <a href=\"https:\/\/www.ehstoday.com\/archive\/article\/21909129\/preparing-for-an-osha-inspection\"><span style=\"text-decoration:underline\">Q&A’s published<\/span><\/a>.  The Safety Compliance Letter (Bureau of Business Practice, Aspen Publishers), Occupational Hazards magazine, Occupational Health & Safety magazine, <a href=\"https:\/\/www.ishn.com\/authors\/1915-rick-kaletsky\"><span style=\"text-decoration:underline\">Industrial Safety & Hygiene News<\/span><\/a>, <a href=\"https:\/\/www.safetyandhealthmagazine.com\/ext\/resources\/files\/newsletters\/osha-up-to-date\/OSHA-Up-to-Date-Nov16.pdf\"><span style=\"text-decoration:underline\">OSHA Up To Date<\/span><\/a> (newsletter of the National Safety Council), and in <a href=\"https:\/\/books.google.com\/books?id=Z0asi8gNMlwC&pg=PP5&lpg=PP5&dq=American+Society+of+Safety+Engineers+rick+kaletsky&source=bl&ots=T8EOMoKWG4&sig=ACfU3U0CiM8nQ8umv9FKOzOeKo6QXidJNw&hl=en&sa=X&ved=2ahUKEwih1JzgmrnnAhVJgp4KHRi1A94Q6AEwB3oECAkQAQ#v=onepage&q=American%20Society%20of%20Safety%20Engineers%20rick%20kaletsky&f=false\"><span style=\"text-decoration:underline\">special supplements of Business & Legal Reports<\/span><\/a> are just a few of the many worth mentioning. <\/p><p>He has given approximately 300 presentations (as OSHA employee and as self-employed safety consultant) to schools, labor, corporations, management, associations, insurance groups, and miscellaneous organizations.  <\/p><p>Much of his expertise has been shared in videos, and quoted in <a href=\"https:\/\/www.safetyandhealthmagazine.com\/ext\/resources\/files\/newsletters\/osha-up-to-date\/OSHA-Up-to-Date-Nov15.pdf\"><span style=\"text-decoration:underline\">Safety + Health magazine<\/span><\/a>, Occupational Hazards magazine, a publication of the Architectural Woodwork Institute, Logistics Management, Catalog Age magazine, Forging magazine, and ADA Compliance Guide.  <\/p><p>He authored the highly acclaimed book “<a href=\"https:\/\/books.google.com\/books\/about\/OSHA_Inspections.html?id=-t8eAQAAIAAJ\"><span style=\"text-decoration:underline\"><em>OSHA Inspections: Preparation and Response<\/em><\/span><\/a><span style=\"text-decoration:underline\"><em>”<\/em><\/span>, which gives an insider’s perspective on how to prepare for, respond to, and work through an OSHA site inspection.  It’s not uncommon for <a href=\"https:\/\/www.lockheedmartin.com\/\"><span style=\"text-decoration:underline\">fortune 500 companies<\/span><\/a>, universities, and OSHA officials to rely on the fine tuned easy to understand instruction of this book.<\/p><h4>Affiliations<\/h4><ul><li><a href=\"https:\/\/www.assp.org\/\">American Society of Safety Professionals<\/a><\/li><li><a href=\"https:\/\/www.nsc.org\/\">National Safety Council<\/a>,<a href=\"https:\/\/ctvalley.assp.org\/\">Connecticut Safety Society<\/a><\/li><li><a href=\"http:\/\/connecticosh.org\/\">Connecticut Council on Occupational Safety and Health<\/a><\/li><li><a href=\"http:\/\/errico-inc.com\/richard-kaletsky\/\">Paul L. Errico Associates Inc.<\/a><\/li><li><a href=\"https:\/\/arcca.com\/\">ARCCA, Incorporated<\/a><\/li><li><a href=\"https:\/\/www.thomsonreuters.com\/\">Thomson Reuters Expert Witness Services<\/a><\/li><li><a href=\"https:\/\/www.tasanet.com\/Search-Experts\/Expert-Witness-Specialties-Search\/OSHA-Expert-Witness\">The TASA Group<\/a><\/li><li><a href=\"https:\/\/www.envistaforensics.com\/\">Envista Forensics<\/a><\/li><li><a href=\"https:\/\/glg.it\/\">GLG<\/a><\/li><li><a href=\"https:\/\/www.heattreat.net\/people\/rick-kaletsky\">Metal Treating Institute<\/a><\/li><li><a href=\"https:\/\/www.odysseyofthemind.com\/newslettermaterials\/pdf_news\/fall2000.pdf\">Odyssey of the Mind<\/a>.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_fC4nii"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_UY7d9j": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_dbdj7q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jennifer Busick",
+            "size": "h2"
+          }
+        },
+        "text_8rQND6": {
+          "type": "text",
+          "settings": {
+            "text": "Safety Author - Teacher - Consultant",
+            "text_style": "body"
+          }
+        },
+        "buttons_yNzRVw": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Amazon Author",
+            "button_link_1": "https:\/\/www.amazon.com\/stores\/Jennifer-Busick\/author\/B001JG8XF8?qid=1582323639&ref=sr_ntt_srch_lnk_fkmr1_1&sr=8-1-fkmr1&isDramIntegrated=true&shoppingPortalEnabled=true",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dbdj7q",
+        "text_8rQND6",
+        "buttons_yNzRVw"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/Jennifers_banner_2.webp",
+        "image_mobile": "shopify:\/\/shop_images\/Jennifer_profile_banner_mobile.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_height_mobile": "adapt-mobile",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": true,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": true,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#b62f31",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#b62f31",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "text_icons_tV4H8A": {
+      "type": "text-icons",
+      "blocks": {
+        "text_icon_Pr7KwX": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/linkedin_2.png",
+            "title": "Connect On LinkedIn",
+            "subheading": "",
+            "link": "",
+            "open_link_in_new_tab": true
+          }
+        },
+        "text_icon_WhP3KC": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/twitter128px.png",
+            "title": "Connect On X",
+            "subheading": "",
+            "link": "https:\/\/twitter.com\/jenbusick",
+            "open_link_in_new_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "text_icon_Pr7KwX",
+        "text_icon_WhP3KC"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "icon_width_desktop": 10,
+        "text_position": "bottom",
+        "enable_heading_in_box": false,
+        "columns_desktop": 2,
+        "columns_tablet": 2,
+        "auto_fit": false,
+        "column_alignment": "center",
+        "highlight_icon": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "background-1",
+        "border_width": 1,
+        "border_opacity": 0,
+        "border_spacing": 0,
+        "highlight_border": false,
+        "border_shape": "square",
+        "blur_background": false,
+        "columns_mobile": "2",
+        "icon_width_mobile": 20,
+        "border_spacing_mobile": 0,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_9WGTWd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_VT6TQn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jennifer Busick earned her B.S., with a major in industrial hygiene, from Purdue University and a Master’s in Public Health from the University of South Carolina. <\/p><p>She has been writing about workplace safety and health for two decades. Her work has appeared in print and online in the <em>Safety Compliance Letter, Safety Now, Industrial Safety & Hygiene News, Safety Management, Maintenance Management, GoHealthNow, 7-Minute Safety Trainer, eHealthcare Strategy and Trends, Safety Daily Advisor, EHS Daily Advisor, <\/em>and other places. <\/p><p>She has written special supplements for Business and Legal Reports on ergonomics, workplace violence prevention, workplace hazard assessment, and biohazards in the workplace, and has written twenty white papers for BLR and for Industrial Safety & Hygiene News\/Avetta on environmental health and safety, corporate culture, and sustainability. <\/p><p>Busick was the editor of the <em>Cal\/OSHA Compliance Advisor<\/em> for twelve years, until it ceased publication in 2017. She has published six books on safety and health in the workplace. Two are still in print: the <a href=\"https:\/\/bluegavelpress.com\/osha-compliance-guide-for-medical-emply\/\">OSHA Compliance Guide for Medical Employers<\/a><em> <\/em>and the <a href=\"https:\/\/bluegavelpress.com\/osha-training-guide-medical-emply\/\">OSHA Training Guide for Medical Employers<\/a>, available from Blue Gavel Press.<\/p><p>In addition, Busick has spoken to professional groups on health and safety subjects, and has extensive experience designing and presenting safety and health training programs for private employers. She has worked as an independent safety and health professional and also as an instructor for <a href=\"https:\/\/www.brcc.edu\/brcc\/administration\/\">Blue Ridge Community College in North Carolina<\/a>, <a href=\"https:\/\/www.midlandstech.edu\/\">Midlands Technical College<\/a> in South Carolina, and the <a href=\"https:\/\/www.sc.edu\/facultystaff\/\">University of South Carolina<\/a> in Columbia, South Carolina.<\/p><p>When she’s not brewing another book, article, or presentation, Busick volunteers with the Child Life program at her local hospital, reads a lot of science fiction and nonfiction, and tries to keep up with her two daughters—one is a theater kid, and the other is a basketball player, so she never lacks for things to do on the weekend.    <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_VT6TQn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "large",
+        "content_alignment": "left",
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_riVTfa": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_LtJmMJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sean Hennessy",
+            "size": "h2"
+          }
+        },
+        "text_FnnLtq": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LtJmMJ",
+        "text_FnnLtq"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "image": "shopify:\/\/shop_images\/Sean_Hennesy_desktop_banner.webp",
+        "image_mobile": "shopify:\/\/shop_images\/Sean_Hennesy_Mobile_Banner.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_height_mobile": "medium-mobile",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "keep_ltr": false,
+        "hide_when_empty_image": false,
+        "preload": false,
+        "enable_parallax_scrolling_effect": false,
+        "mobile_content_alignment": "center",
+        "show_text_below_image": true,
+        "color_text": "#ffffff",
+        "gradient_heading_desktop": "",
+        "color_button_text_1": "#b62f31",
+        "color_button_1": "#ffffff",
+        "color_button_text_2": "#000000",
+        "color_button_2": "#ffffff",
+        "colors_badge_foreground": "#ffffff",
+        "colors_badge_background": "#f87171",
+        "color_countdown_foreground": "#000000",
+        "color_countdown_background": "#ffffff",
+        "color_text_mobile": "#ffffff",
+        "gradient_heading_mobile": "",
+        "color_button_text_1_mobile": "#000000",
+        "color_button_1_mobile": "#ffffff",
+        "color_button_text_2_mobile": "#000000",
+        "color_button_2_mobile": "#ffffff",
+        "colors_badge_foreground_mobile": "#ffffff",
+        "colors_badge_background_mobile": "#f87171",
+        "color_countdown_foreground_mobile": "#000000",
+        "color_countdown_background_mobile": "#ffffff",
+        "background_container_mobile": "#b62f31",
+        "gradient_background_container_mobile": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "text_icons_X7TEHx": {
+      "type": "text-icons",
+      "blocks": {
+        "text_icon_JfL3Dp": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "none",
+            "title": "",
+            "subheading": "",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        },
+        "text_icon_jQrTCA": {
+          "type": "text-icon",
+          "settings": {
+            "icon": "check",
+            "custom_icon": "shopify:\/\/shop_images\/linkedin_2.png",
+            "title": "Connect On LinkedIn",
+            "subheading": "",
+            "link": "",
+            "open_link_in_new_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "text_icon_JfL3Dp",
+        "text_icon_jQrTCA"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "icon_width_desktop": 10,
+        "text_position": "bottom",
+        "enable_heading_in_box": false,
+        "columns_desktop": 3,
+        "columns_tablet": 3,
+        "auto_fit": false,
+        "column_alignment": "center",
+        "highlight_icon": false,
+        "enable_section_box_layout": false,
+        "color_scheme": "",
+        "border_width": 1,
+        "border_opacity": 0,
+        "border_spacing": 0,
+        "highlight_border": false,
+        "border_shape": "square",
+        "blur_background": false,
+        "columns_mobile": "1",
+        "icon_width_mobile": 10,
+        "border_spacing_mobile": 0,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_cQtJjU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PpWfQA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>EXPLORE THE FULL TRADESAFE PRODUCT COLLECTION.<\/h3>",
+            "heading_size": "h1"
+          }
+        },
+        "button_cVyd34": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP TRADESAFE PRODUCTS",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_1": "primary",
+            "button_open_new_tab_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "primary",
+            "button_open_new_tab_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PpWfQA",
+        "button_cVyd34"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "desktop_content_width": "full",
+        "content_alignment": "center",
+        "enable_section_box_layout": false,
+        "color_scheme": "scheme-e4f362cc-41f9-4624-af43-310c1f8ae9e2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f2736caf-f589-4e31-b174-a65d7ece43bc",
+    "rich_text_D3JWzX",
+    "rich_text_bQyRfK",
+    "image_banner_MLWBzN",
+    "rich_text_Hzz7H3",
+    "image_banner_iid6hV",
+    "text_icons_xNa3Y9",
+    "rich_text_t4B9dT",
+    "image_banner_h9P6AM",
+    "text_icons_CNJQXb",
+    "rich_text_bi33Qf",
+    "image_banner_V8aeD6",
+    "text_icons_gtdyPk",
+    "rich_text_9cMHyN",
+    "image_banner_UY7d9j",
+    "text_icons_tV4H8A",
+    "rich_text_9WGTWd",
+    "image_banner_riVTfa",
+    "text_icons_X7TEHx",
+    "rich_text_cQtJjU"
+  ]
+}
