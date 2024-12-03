@@ -1,0 +1,29 @@
+{%- if predictive_search.performed -%}
+  <div id="predictive-search-results">
+    {%- if predictive_search.resources.products.size > 0 -%} 
+      <h2 id="predictive-search-products">
+        Article Search Results
+      </h2>
+    {%- endif -%}
+    <div class="blog-articles">
+      {%- for article in predictive_search.resources.articles -%}
+        <div class="blog-articles__article article flex align-start">
+
+          {%- render 'article-card-trdsf',
+            article: article,
+            media_height: 'adapt',
+            media_aspect_ratio: article.image.aspect_ratio,
+            show_image: true,
+            show_date: true,
+            show_author: false,
+            show_comment: false,
+            show_excerpt: true,
+            share_enable: false 
+          -%}
+
+        </div>
+      {%- endfor -%}
+    </div>
+
+  </div>
+{%- endif -%}
