@@ -1502,3 +1502,19 @@ back-to-top .icon {
 .th-wl-loader{
   font-weight:800;
 }
+
+.th_wl_col_btn{
+  position:absolute;
+  top:8px;
+  left:80%;
+}
+
+.th_wl_icon {
+  margin-right:0 !important;
+}
+
+@media (max-width: 400px) {
+  .th_wl_col_btn{
+    left:70%;
+  }
+}
