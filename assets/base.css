@@ -1421,7 +1421,7 @@ back-to-top .icon {
   padding-left:0px !important;
 }
 
-.th_wl_button_after{
+.th_wl_button_after, .th_wl_button, .th_wl_dropbtn{
   background-color:transparent !important;
 }
 

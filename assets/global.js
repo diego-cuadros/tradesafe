@@ -441,7 +441,7 @@ function pushErrorMessage(content) {
 /* modifies the atc button html structure on wishlist page */
 
 const interval = setInterval(() => {
-  const atcAllProducts = document.querySelector(".add-to-cart-all-product-btn");
+  const allButtons = document.querySelectorAll(".add-to-cart-all-product-btn");
   const preloader = document.querySelector(".th-wl-loader");
   const addSucessMessage = document.getElementById("th-wl-sucess-mgs");
 
@@ -452,22 +452,25 @@ const interval = setInterval(() => {
     preloader.appendChild(loadingText);
   }
 
-  if (atcAllProducts) {
-    atcAllProducts.innerHTML = "";
-    const spanLabel = document.createElement("span");
-    spanLabel.textContent = "Add All To Cart";
-    atcAllProducts.appendChild(spanLabel);
-    atcAllProducts.addEventListener("mouseenter", () => {
-      spanLabel.style.color = "#B62F31";
-    });
-    atcAllProducts.addEventListener("mouseleave", () => {
-      spanLabel.style.color = ""; // Reset to default color
-    });
-    clearInterval(interval); // Stop checking once the element is found
-  }
-
-  if (addAll) {
-  }
+  allButtons.forEach((button) => {
+    // Hides unnecesary Load Button created by Wishlist Club App
+    if (button.textContent.trim() === "Load More") {
+      button.style.display = "none";
+      clearInterval(interval);
+    } else {
+      // Styles Add All To Cart on wishlist dashboard
+      button.innerHTML = "";
+      const spanLabel = document.createElement("span");
+      spanLabel.textContent = "Add All To Cart";
+      button.appendChild(spanLabel);
+      button.addEventListener("mouseenter", () => {
+        spanLabel.style.color = "#B62F31";
+      });
+      button.addEventListener("mouseleave", () => {
+        spanLabel.style.color = ""; // Reset to default color
+      });
+    }
+  });
 
   if (
     addSucessMessage &&
