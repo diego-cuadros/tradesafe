@@ -1475,22 +1475,9 @@ back-to-top .icon {
   border:1px solid #f8f8f8 !important;
 }
 
-@media (max-width: 749px) {
-  .th-wl-share_on{
-    justify-content: center !important;
-    margin-top: 15px !important;  
-  }
-
-  .th-wl-tab{
-    justify-content:center !important;
-  }
-
+@media (max-width: 749px) { 
   .th_wl_clear_cart_message{
     width:30px !important;
-  }
-
-  .th-wl-remove{
-    top:0px !important;
   }
 
   .th-wl-product-title span{
@@ -1498,10 +1485,57 @@ back-to-top .icon {
   }
 }
 
+.th-wl-view-cart-link{
+  color:#fff;
+  font-weight: 800;
+}
+
+/* Wishlist page dashboard */ 
+#th_wishlist_page_id{
+  position: relative;
+}
+
+.th_wl_clear_cart_checkbox{
+  display: none;
+}
+
+.th-wl-header-row {
+  margin: 0 !important;
+}
+
+.th-wl-header-col{
+  margin-bottom:50px;
+}
+
+.th-wl-share_on{
+  position: absolute;
+  bottom:0px;
+  left: 50%;
+  transform: translate(-50%);
+  justify-content: center !important;
+  width: 100%;
+}
+
+.th-wl-share_on > h3 {
+  font-size: 20px !important;
+}
+
+.th-wl-tab{
+  justify-content:flex-end !important;
+}
+
+@media (max-width: 400px){
+  .th-wl-tab{
+    justify-content:center !important;
+  }
+}
+
 
 .th-wl-loader{
   font-weight:800;
 }
+
+/* Place wishlist heart on top right corner of collections cards */ 
 
 .th_wl_col_btn{
   position:absolute;
@@ -1518,3 +1552,4 @@ back-to-top .icon {
     left:70%;
   }
 }
+
